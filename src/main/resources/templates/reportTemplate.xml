@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="windows-1251" standalone="yes"?>
+<FISRq>
+    <Msg Scheme="CRB" Version="1.0">
+        <Request RqId="CRB/StmtRq">
+            <Body>
+                <req-ROWSET>
+                    <req-ROW>
+                        <key_id>KEI_ID</key_id>
+                        <accnt>ACCOUNT</accnt>
+                        <dt_from>DATE_FROM</dt_from>
+                        <dt_till>DATE_TILL</dt_till>
+                    </req-ROW>
+                </req-ROWSET>
+            </Body>
+        </Request>
+    </Msg>
+</FISRq>

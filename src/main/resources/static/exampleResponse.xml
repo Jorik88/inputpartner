@@ -1,0 +1,1473 @@
+<?xml version="1.0" encoding="WINDOWS-1251"?>
+<FISRs>
+    <Msg>
+        <Response Scheme="CRB" RsId="CRB/StmtRs" System="Forpost">
+
+                <ROW>
+                    <account>BY39MTBK30120001093300090355</account>
+                    <currency>BYN</currency>
+                    <dt_from>20180101000000</dt_from>
+                    <dt_till>20190131235959</dt_till>
+                    <date_list>
+                        <date_list_ROW>
+                            <dt>20180511</dt>
+                            <blnc_on_begin_dt>0</blnc_on_begin_dt>
+                            <blnc_on_end_dt>27980.1</blnc_on_end_dt>
+                            <trns_list>
+                                <trns_list_ROW>
+                                    <trns_code>5845418315</trns_code>
+                                    <flow>C</flow>
+                                    <amount>18000.00</amount>
+                                    <currency>933</currency>
+                                    <timestamp>20180511142832</timestamp>
+                                    <db_accnt>BY85MTBK38090000000000001955</db_accnt>
+                                    <cr_accnt>BY39MTBK30120001093300090355</cr_accnt>
+                                    <bnk_code></bnk_code>
+                                    <db_unp>100394906</db_unp>
+                                    <db_name>ПЕРЕВОДЫ ФИЗ.ЛИЦ С ПРОДАЖЕЙ</db_name>
+                                    <cr_unp>193015013</cr_unp>
+                                    <cr_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</cr_name>
+                                    <pmdt>ПОПОЛНЕНИЕ УСТАФНОГО ФОНДА ООО &quot;КРИПТОТРЕЙД&quot; СНИЖКО ИГОРЬ DOC ПАСПОРТ ИНОСТРАНЦА FF FF143557 ВЫДАН УКРАИНА 31 10 2016 DOC ПЕРЕВОД НЕ СВЯЗАН С ПРЕДПРИНИМАТЕЛЬСКОЙ ДЕЯТЕЛЬНОСТЬЮ</pmdt>
+                                </trns_list_ROW>
+                                <trns_list_ROW>
+                                    <trns_code>5845419648</trns_code>
+                                    <flow>C</flow>
+                                    <amount>10000.00</amount>
+                                    <currency>933</currency>
+                                    <timestamp>20180511142905</timestamp>
+                                    <db_accnt>BY85MTBK38090000000000001955</db_accnt>
+                                    <cr_accnt>BY39MTBK30120001093300090355</cr_accnt>
+                                    <bnk_code></bnk_code>
+                                    <db_unp>100394906</db_unp>
+                                    <db_name>ПЕРЕВОДЫ ФИЗ.ЛИЦ С ПРОДАЖЕЙ</db_name>
+                                    <cr_unp>193015013</cr_unp>
+                                    <cr_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</cr_name>
+                                    <pmdt>ФОРМИРОВАНИЕ УСТАФНОГО ФОНДА ООО &quot;КРИПТОТРЕЙД&quot; СНИЖКО ИГОРЬ DOC ПАСПОРТ ИНОСТРАНЦА FF FF143557 ВЫДАН УКРАИНА 31 10 2016 DOC ПЕРЕВОД НЕ СВЯЗАН С ПРЕДПРИНИМАТЕЛЬСКОЙ ДЕЯТЕЛЬНОСТЬЮ</pmdt>
+                                </trns_list_ROW>
+                                <trns_list_ROW>
+                                    <trns_code>5845859539</trns_code>
+                                    <flow>D</flow>
+                                    <amount>19.90</amount>
+                                    <currency>933</currency>
+                                    <timestamp>20180511191040</timestamp>
+                                    <db_accnt>BY39MTBK30120001093300090355</db_accnt>
+                                    <cr_accnt>BY07MTBK67300000000000188820</cr_accnt>
+                                    <bnk_code></bnk_code>
+                                    <db_unp>193015013</db_unp>
+                                    <db_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</db_name>
+                                    <cr_unp>193015013</cr_unp>
+                                    <cr_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</cr_name>
+                                    <pmdt>КОМИССИЯ ЗА РАСЧЕТНО-КАССОВОЕ ОБСЛУЖИВАНИЕ ЮРИДИЧЕСКОГО ЛИЦА (ИНДИВИДУАЛЬНОГО ПРЕДПРИНИМАТЕЛЯ) ПО ТАРИФНОМУ ПЛАНУ &quot;ПЕРВЫЙ СЧЕТ&quot; ЗА АПРЕЛЬ 2018 ГОДА Г. ОСНОВАНИЕ: П.2 ПРИЛОЖЕНИЯ 5 К ПЕРЕЧНЮ ПЕРЕЧНЯ ВОЗНАГРАЖДЕНИЙ ЗАО &quot;МТБАНК&quot;. БЕЗ НДС</pmdt>
+                                </trns_list_ROW>
+                            </trns_list>
+                        </date_list_ROW>
+                        <date_list_ROW>
+                            <dt>20180514</dt>
+                            <blnc_on_begin_dt>27980.1</blnc_on_begin_dt>
+                            <blnc_on_end_dt>3887.92</blnc_on_end_dt>
+                            <trns_list>
+                                <trns_list_ROW>
+                                    <trns_code>5852158261</trns_code>
+                                    <flow>C</flow>
+                                    <amount>19.90</amount>
+                                    <currency>933</currency>
+                                    <timestamp>20180514123644</timestamp>
+                                    <db_accnt>BY46MTBK81010008000000000187</db_accnt>
+                                    <cr_accnt>BY39MTBK30120001093300090355</cr_accnt>
+                                    <bnk_code></bnk_code>
+                                    <db_unp></db_unp>
+                                    <db_name>ЗАО МТБАНК</db_name>
+                                    <cr_unp>193015013</cr_unp>
+                                    <cr_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</cr_name>
+                                    <pmdt>Возврат ошибочно списанного с КРИПТОТРЕЙД ООО (УНП 193015013) комиссионного вознаграждения за расчетно-кассовое обслуживание юридического лица по ТП Первый счет за апрель 2018 года в связи с неверным начислением комиссии согласно распоряжению №1 от 14.05.2018</pmdt>
+                                </trns_list_ROW>
+                                <trns_list_ROW>
+                                    <trns_code>5852370692</trns_code>
+                                    <flow>D</flow>
+                                    <amount>24072.00</amount>
+                                    <currency>933</currency>
+                                    <timestamp>20180514150432</timestamp>
+                                    <db_accnt>BY39MTBK30120001093300090355</db_accnt>
+                                    <cr_accnt>BY54MTBK69110400084000000054</cr_accnt>
+                                    <bnk_code></bnk_code>
+                                    <db_unp>193015013</db_unp>
+                                    <db_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</db_name>
+                                    <cr_unp>100394906</cr_unp>
+                                    <cr_name>ЗАО &apos;МТБАНК&apos;</cr_name>
+                                    <pmdt>СОГЛАСНО Заявка на покупку N 3 ОТ 20180514. НАПРАВЛЕНИЕ ИСПОЛЬЗОВАНИЯ - 10010. КЛИЕНТ КРИПТОТРЕЙД ООО МИНСК РЕСПУБЛИКА БЕЛАРУСЬ. BYN 24072/USD 12000 КУРС 2;006 БЕЗ НДС</pmdt>
+                                </trns_list_ROW>
+                                <trns_list_ROW>
+                                    <trns_code>5852546406</trns_code>
+                                    <flow>D</flow>
+                                    <amount>40.08</amount>
+                                    <currency>933</currency>
+                                    <timestamp>20180514172309</timestamp>
+                                    <db_accnt>BY39MTBK30120001093300090355</db_accnt>
+                                    <cr_accnt>BY97MTBK81010008000000000142</cr_accnt>
+                                    <bnk_code></bnk_code>
+                                    <db_unp>193015013</db_unp>
+                                    <db_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</db_name>
+                                    <cr_unp>100394906</cr_unp>
+                                    <cr_name>ЗАО &apos;МТБАНК&apos;</cr_name>
+                                    <pmdt>КОМИССИЯ КРИПТОТРЕЙД ООО ПО ПЕРЕВОДУ 5 ОТ 180514 НА СУММУ USD12000;СОГЛАСНО ПЕРЕЧНЯ ВОЗНАГРАЖДЕНИЙ БЕЗ НДС</pmdt>
+                                </trns_list_ROW>
+                            </trns_list>
+                        </date_list_ROW>
+                        <date_list_ROW>
+                            <dt>20180516</dt>
+                            <blnc_on_begin_dt>3887.92</blnc_on_begin_dt>
+                            <blnc_on_end_dt>3868.02</blnc_on_end_dt>
+                            <trns_list>
+                                <trns_list_ROW>
+                                    <trns_code>5867815599</trns_code>
+                                    <flow>D</flow>
+                                    <amount>19.90</amount>
+                                    <currency>933</currency>
+                                    <timestamp>20180516132354</timestamp>
+                                    <db_accnt>BY39MTBK30120001093300090355</db_accnt>
+                                    <cr_accnt>BY46MTBK81010008000000000187</cr_accnt>
+                                    <bnk_code></bnk_code>
+                                    <db_unp>193015013</db_unp>
+                                    <db_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</db_name>
+                                    <cr_unp></cr_unp>
+                                    <cr_name>ЗАО МТБАНК</cr_name>
+                                    <pmdt>КОМИССИЯ ЗА РАСЧЕТНО-КАССОВОЕ ОБСЛУЖИВАНИЕ ЮРИДИЧЕСКОГО ЛИЦА (ИНДИВИДУАЛЬНОГО ПРЕДПРИНИМАТЕЛЯ) ПО ТАРИФНОМУ ПЛАНУ &quot;ПЕРВЫЙ СЧЕТ&quot; ЗА АПРЕЛЬ 2018 ГОДА Г. ОСНОВАНИЕ: П.2 ПРИЛОЖЕНИЯ 5 К ПЕРЕЧНЮ ПЕРЕЧНЯ ВОЗНАГРАЖДЕНИЙ ЗАО &quot;МТБАНК&quot;. БЕЗ НДС</pmdt>
+                                </trns_list_ROW>
+                            </trns_list>
+                        </date_list_ROW>
+                        <date_list_ROW>
+                            <dt>20180531</dt>
+                            <blnc_on_begin_dt>3868.02</blnc_on_begin_dt>
+                            <blnc_on_end_dt>3848.12</blnc_on_end_dt>
+                            <trns_list>
+                                <trns_list_ROW>
+                                    <trns_code>5922579768</trns_code>
+                                    <flow>D</flow>
+                                    <amount>19.90</amount>
+                                    <currency>933</currency>
+                                    <timestamp>20180531203911</timestamp>
+                                    <db_accnt>BY39MTBK30120001093300090355</db_accnt>
+                                    <cr_accnt>BY82MTBK67000000000001478945</cr_accnt>
+                                    <bnk_code></bnk_code>
+                                    <db_unp>193015013</db_unp>
+                                    <db_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</db_name>
+                                    <cr_unp>193015013</cr_unp>
+                                    <cr_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</cr_name>
+                                    <pmdt>КОМИССИЯ ЗА РАСЧЕТНО-КАССОВОЕ ОБСЛУЖИВАНИЕ ЮРИДИЧЕСКОГО ЛИЦА (ИНДИВИДУАЛЬНОГО ПРЕДПРИНИМАТЕЛЯ) ПО ТАРИФНОМУ ПЛАНУ &quot;ПЕРВЫЙ СЧЕТ&quot; ЗА МАЙ 2018 ГОДА Г. ОСНОВАНИЕ: П.2 ПРИЛОЖЕНИЯ 5 К ПЕРЕЧНЮ ПЕРЕЧНЯ ВОЗНАГРАЖДЕНИЙ ЗАО &quot;МТБАНК&quot;. БЕЗ НДС</pmdt>
+                                </trns_list_ROW>
+                            </trns_list>
+                        </date_list_ROW>
+                        <date_list_ROW>
+                            <dt>20180608</dt>
+                            <blnc_on_begin_dt>3848.12</blnc_on_begin_dt>
+                            <blnc_on_end_dt>2543.89</blnc_on_end_dt>
+                            <trns_list>
+                                <trns_list_ROW>
+                                    <trns_code>5955359377</trns_code>
+                                    <flow>D</flow>
+                                    <amount>76.44</amount>
+                                    <currency>933</currency>
+                                    <timestamp>20180608103704</timestamp>
+                                    <db_accnt>BY39MTBK30120001093300090355</db_accnt>
+                                    <cr_accnt>BY98AKBB36021010000970000000</cr_accnt>
+                                    <bnk_code>AKBBBY2X</bnk_code>
+                                    <db_unp>193015013</db_unp>
+                                    <db_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</db_name>
+                                    <cr_unp>101530339</cr_unp>
+                                    <cr_name>ГЛАВНОЕ УПРАВЛЕНИЕ МИНИСТЕРСТВА ФИНАНСОВ РБ ПО Г.МИНСКУ</cr_name>
+                                    <pmdt>ПОДОХОДНЫЙ НАЛОГ ЗА ИЮНЬ 2018Г.ПО СРОКУ УПЛАТЫ 10.06.2018</pmdt>
+                                </trns_list_ROW>
+                                <trns_list_ROW>
+                                    <trns_code>5955359969</trns_code>
+                                    <flow>D</flow>
+                                    <amount>205.80</amount>
+                                    <currency>933</currency>
+                                    <timestamp>20180608103719</timestamp>
+                                    <db_accnt>BY39MTBK30120001093300090355</db_accnt>
+                                    <cr_accnt>BY30AKBB36029450100090000000</cr_accnt>
+                                    <bnk_code>AKBBBY2X</bnk_code>
+                                    <db_unp>193015013</db_unp>
+                                    <db_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</db_name>
+                                    <cr_unp>104518006</cr_unp>
+                                    <cr_name>ГЛАВНОЕ УПРАВЛЕНИЕ МИНИСТЕРСТВА ФИНАНСОВ РБ ПО Г.МИНСКУ</cr_name>
+                                    <pmdt>ФСЗН ЗА ИЮНЬ 2018Г.РЕГИСТРАЦИОННЫЙ НОМЕР 521051879</pmdt>
+                                </trns_list_ROW>
+                                <trns_list_ROW>
+                                    <trns_code>5955441765</trns_code>
+                                    <flow>D</flow>
+                                    <amount>3.53</amount>
+                                    <currency>933</currency>
+                                    <timestamp>20180608114035</timestamp>
+                                    <db_accnt>BY39MTBK30120001093300090355</db_accnt>
+                                    <cr_accnt>BY30AKBB30115240001480000000</cr_accnt>
+                                    <bnk_code>AKBBBY2X</bnk_code>
+                                    <db_unp>193015013</db_unp>
+                                    <db_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</db_name>
+                                    <cr_unp>100122726</cr_unp>
+                                    <cr_name>ФИЛИАЛ БЕЛГОССТРАХА ПО ГОРОДУ МИНСКУ</cr_name>
+                                    <pmdt>ОТЧИСЛЕНИЯ ПО ОБЯЗАТЕЛЬНОМУ СТРАХОВАНИЮ ОТ НЕСЧАСТНЫХ СЛУЧАЕВ НА ПРОИЗВОДСТВЕ.РЕГИСТАЦИОННЫЙ НОМЕР 500207109</pmdt>
+                                </trns_list_ROW>
+                                <trns_list_ROW>
+                                    <trns_code>5955442098</trns_code>
+                                    <flow>D</flow>
+                                    <amount>3.54</amount>
+                                    <currency>933</currency>
+                                    <timestamp>20180608114051</timestamp>
+                                    <db_accnt>BY39MTBK30120001093300090355</db_accnt>
+                                    <cr_accnt>BY08MTBK38190700000000453109</cr_accnt>
+                                    <bnk_code></bnk_code>
+                                    <db_unp>193015013</db_unp>
+                                    <db_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</db_name>
+                                    <cr_unp>193015013</cr_unp>
+                                    <cr_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</cr_name>
+                                    <pmdt>КОМИССИОННОЕ ВОЗНАГРАЖДЕНИЕ БАНКА ЗА ПЕРЕВОД СРЕДСТВ НА ВЫПЛАТУ ЗАРАБОТНОЙ ПЛАТЫ СО СЧЕТА ЮРИДИЧЕСКОГО ЛИЦА НА СЧЕТ КЛИЕНТА СОГЛАСНО ДОГОВОРУ.</pmdt>
+                                </trns_list_ROW>
+                                <trns_list_ROW>
+                                    <trns_code>5955580602</trns_code>
+                                    <flow>D</flow>
+                                    <amount>505.68</amount>
+                                    <currency>933</currency>
+                                    <timestamp>20180608133031</timestamp>
+                                    <db_accnt>BY39MTBK30120001093300090355</db_accnt>
+                                    <cr_accnt>BY30MTBK38120000000000017697</cr_accnt>
+                                    <bnk_code></bnk_code>
+                                    <db_unp>193015013</db_unp>
+                                    <db_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</db_name>
+                                    <cr_unp>193015013</cr_unp>
+                                    <cr_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</cr_name>
+                                    <pmdt>ВЫПЛАТА ЗАРАБОТНОЙ ПЛАТЫ ЗА МАЙ  2018 ГОДА СОТРУДНИКАМ ООО&quot;КРИПТОТРЕЙД&quot;ПО СПИСКУ  1 ОТ 07 ИЮНЯ 2018Г.СОГЛАСНО ДОГОВОРУ. НАЛОГИ И ОБЯЗАТЕЛЬНЫЕ ПЛАТЕЖИ УДЕРЖАНЫ В БЮДЖЕТ.</pmdt>
+                                </trns_list_ROW>
+                                <trns_list_ROW>
+                                    <trns_code>5955645602</trns_code>
+                                    <flow>D</flow>
+                                    <amount>254.62</amount>
+                                    <currency>933</currency>
+                                    <timestamp>20180608140807</timestamp>
+                                    <db_accnt>BY39MTBK30120001093300090355</db_accnt>
+                                    <cr_accnt>BY79OLMP30120005654360000933</cr_accnt>
+                                    <bnk_code>OLMPBY2X</bnk_code>
+                                    <db_unp>193015013</db_unp>
+                                    <db_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</db_name>
+                                    <cr_unp>190612002</cr_unp>
+                                    <cr_name>ООО&quot;РЕНТАЛЮКС&quot;</cr_name>
+                                    <pmdt>АРЕНДНАЯ ПЛАТА ЗА МАЙ 2018 СОГЛАСНО ДОГОВОРА АРЕНДЫ 062/2018 ОТ 05 ФЕВРАЛЯ 2018Г</pmdt>
+                                </trns_list_ROW>
+                                <trns_list_ROW>
+                                    <trns_code>5955645625</trns_code>
+                                    <flow>D</flow>
+                                    <amount>254.62</amount>
+                                    <currency>933</currency>
+                                    <timestamp>20180608140808</timestamp>
+                                    <db_accnt>BY39MTBK30120001093300090355</db_accnt>
+                                    <cr_accnt>BY79OLMP30120005654360000933</cr_accnt>
+                                    <bnk_code>OLMPBY2X</bnk_code>
+                                    <db_unp>193015013</db_unp>
+                                    <db_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</db_name>
+                                    <cr_unp>190612002</cr_unp>
+                                    <cr_name>ООО&quot;РЕНТАЛЮКС&quot;</cr_name>
+                                    <pmdt>АРЕНДНАЯ ПЛАТА ЗА ИЮНЬ 2018 СОГЛАСНО ДОГОВОРА АРЕНДЫ 062/2018 ОТ 05 ФЕВРАЛЯ 2018Г</pmdt>
+                                </trns_list_ROW>
+                            </trns_list>
+                        </date_list_ROW>
+                        <date_list_ROW>
+                            <dt>20180629</dt>
+                            <blnc_on_begin_dt>2543.89</blnc_on_begin_dt>
+                            <blnc_on_end_dt>2523.99</blnc_on_end_dt>
+                            <trns_list>
+                                <trns_list_ROW>
+                                    <trns_code>6039022860</trns_code>
+                                    <flow>D</flow>
+                                    <amount>19.90</amount>
+                                    <currency>933</currency>
+                                    <timestamp>20180629203240</timestamp>
+                                    <db_accnt>BY39MTBK30120001093300090355</db_accnt>
+                                    <cr_accnt>BY82MTBK67000000000001478945</cr_accnt>
+                                    <bnk_code></bnk_code>
+                                    <db_unp>193015013</db_unp>
+                                    <db_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</db_name>
+                                    <cr_unp>193015013</cr_unp>
+                                    <cr_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</cr_name>
+                                    <pmdt>КОМИССИЯ ЗА РАСЧЕТНО-КАССОВОЕ ОБСЛУЖИВАНИЕ ЮРИДИЧЕСКОГО ЛИЦА (ИНДИВИДУАЛЬНОГО ПРЕДПРИНИМАТЕЛЯ) ПО ТАРИФНОМУ ПЛАНУ &quot;ПЕРВЫЙ СЧЕТ&quot; ЗА ИЮНЬ 2018 ГОДА Г. ОСНОВАНИЕ: П.2 ПРИЛОЖЕНИЯ 5 К ПЕРЕЧНЮ ПЕРЕЧНЯ ВОЗНАГРАЖДЕНИЙ ЗАО &quot;МТБАНК&quot;. БЕЗ НДС</pmdt>
+                                </trns_list_ROW>
+                            </trns_list>
+                        </date_list_ROW>
+                        <date_list_ROW>
+                            <dt>20180710</dt>
+                            <blnc_on_begin_dt>2523.99</blnc_on_begin_dt>
+                            <blnc_on_end_dt>1879.27</blnc_on_end_dt>
+                            <trns_list>
+                                <trns_list_ROW>
+                                    <trns_code>6074023908</trns_code>
+                                    <flow>D</flow>
+                                    <amount>21.84</amount>
+                                    <currency>933</currency>
+                                    <timestamp>20180710094521</timestamp>
+                                    <db_accnt>BY39MTBK30120001093300090355</db_accnt>
+                                    <cr_accnt>BY43AKBB36021010005210000000</cr_accnt>
+                                    <bnk_code>AKBBBY2X</bnk_code>
+                                    <db_unp>193015013</db_unp>
+                                    <db_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</db_name>
+                                    <cr_unp>101530339</cr_unp>
+                                    <cr_name>ГЛАВНОЕ УПРАВЛЕНИЕ МИНИСТЕРСТВА ФИНАНСОВ РБ ПО Г.МИНСКУ</cr_name>
+                                    <pmdt>ПОДОХОДНЫЙ НАЛОГ ЗА ИЮНЬ 2018Г.ПО СРОКУ УПЛАТЫ 10.07.2018Г.</pmdt>
+                                </trns_list_ROW>
+                                <trns_list_ROW>
+                                    <trns_code>6074023913</trns_code>
+                                    <flow>D</flow>
+                                    <amount>1.01</amount>
+                                    <currency>933</currency>
+                                    <timestamp>20180710094522</timestamp>
+                                    <db_accnt>BY39MTBK30120001093300090355</db_accnt>
+                                    <cr_accnt>BY30AKBB30115240001480000000</cr_accnt>
+                                    <bnk_code>AKBBBY2X</bnk_code>
+                                    <db_unp>193015013</db_unp>
+                                    <db_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</db_name>
+                                    <cr_unp>100122726</cr_unp>
+                                    <cr_name>ФИЛИАЛ БЕЛГОССТРАХА ПО ГОРОДУ МИНСКУ</cr_name>
+                                    <pmdt>ОТЧИСЛЕНИЯ ПО ОБЯЗАТЕЛЬНОМУ СТРАХОВАНИЮ ОТ НЕСЧАСТНЫХ СЛУЧАЕВ НА ПРОИЗВОДСТВЕ.РЕГИСТАЦИОННЫЙ НОМЕР 500207109</pmdt>
+                                </trns_list_ROW>
+                                <trns_list_ROW>
+                                    <trns_code>6074023918</trns_code>
+                                    <flow>D</flow>
+                                    <amount>58.80</amount>
+                                    <currency>933</currency>
+                                    <timestamp>20180710094522</timestamp>
+                                    <db_accnt>BY39MTBK30120001093300090355</db_accnt>
+                                    <cr_accnt>BY30AKBB36029450100090000000</cr_accnt>
+                                    <bnk_code>AKBBBY2X</bnk_code>
+                                    <db_unp>193015013</db_unp>
+                                    <db_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</db_name>
+                                    <cr_unp>104521003</cr_unp>
+                                    <cr_name>ГЛАВНОЕ УПРАВЛЕНИЕ МИНИСТЕРСТВА ФИНАНСОВ РБ ПО Г.МИНСКУ</cr_name>
+                                    <pmdt>ФСЗН ЗА ИЮНЬ 2018Г.РЕГИСТРАЦИОННЫЙ НОМЕР 521051879</pmdt>
+                                </trns_list_ROW>
+                                <trns_list_ROW>
+                                    <trns_code>6074050385</trns_code>
+                                    <flow>D</flow>
+                                    <amount>144.48</amount>
+                                    <currency>933</currency>
+                                    <timestamp>20180710101452</timestamp>
+                                    <db_accnt>BY39MTBK30120001093300090355</db_accnt>
+                                    <cr_accnt>BY30MTBK38120000000000017697</cr_accnt>
+                                    <bnk_code></bnk_code>
+                                    <db_unp>193015013</db_unp>
+                                    <db_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</db_name>
+                                    <cr_unp>193015013</cr_unp>
+                                    <cr_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</cr_name>
+                                    <pmdt>ВЫПЛАТА ЗАРАБОТНОЙ ПЛАТЫ ЗА ИЮНЬ  2018 ГОДА СОТРУДНИКАМ ООО&quot;КРИПТОТРЕЙД&quot;ПО СПИСКУ  2 ОТ 10 ИЮЛЯ 2018Г.СОГЛАСНО ДОГОВОРУ. НАЛОГИ И ОБЯЗАТЕЛЬНЫЕ ПЛАТЕЖИ УДЕРЖАНЫ В БЮДЖЕТ.</pmdt>
+                                </trns_list_ROW>
+                                <trns_list_ROW>
+                                    <trns_code>6074050611</trns_code>
+                                    <flow>D</flow>
+                                    <amount>1.01</amount>
+                                    <currency>933</currency>
+                                    <timestamp>20180710101506</timestamp>
+                                    <db_accnt>BY39MTBK30120001093300090355</db_accnt>
+                                    <cr_accnt>BY08MTBK38190700000000453109</cr_accnt>
+                                    <bnk_code></bnk_code>
+                                    <db_unp>193015013</db_unp>
+                                    <db_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</db_name>
+                                    <cr_unp>193015013</cr_unp>
+                                    <cr_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</cr_name>
+                                    <pmdt>КОМИССИОННОЕ ВОЗНАГРАЖДЕНИЕ БАНКА ЗА ПЕРЕВОД СРЕДСТВ НА ВЫПЛАТУ ЗАРАБОТНОЙ ПЛАТЫ СО СЧЕТА ЮРИДИЧЕСКОГО ЛИЦА НА СЧЕТ КЛИЕНТА СОГЛАСНО ДОГОВОРУ.</pmdt>
+                                </trns_list_ROW>
+                                <trns_list_ROW>
+                                    <trns_code>6074083441</trns_code>
+                                    <flow>D</flow>
+                                    <amount>251.24</amount>
+                                    <currency>933</currency>
+                                    <timestamp>20180710104838</timestamp>
+                                    <db_accnt>BY39MTBK30120001093300090355</db_accnt>
+                                    <cr_accnt>BY79OLMP30120005654360000933</cr_accnt>
+                                    <bnk_code>OLMPBY2X</bnk_code>
+                                    <db_unp>193015013</db_unp>
+                                    <db_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</db_name>
+                                    <cr_unp>190612002</cr_unp>
+                                    <cr_name>ООО&quot;РЕНТАЛЮКС&quot;</cr_name>
+                                    <pmdt>АРЕНДНАЯ ПЛАТА ЗА ИЮЛЬ 2018 СОГЛАСНО ДОГОВОРА АРЕНДЫ 062/2018 ОТ 05 ФЕВРАЛЯ 2018Г</pmdt>
+                                </trns_list_ROW>
+                                <trns_list_ROW>
+                                    <trns_code>6074083579</trns_code>
+                                    <flow>D</flow>
+                                    <amount>92.20</amount>
+                                    <currency>933</currency>
+                                    <timestamp>20180710104847</timestamp>
+                                    <db_accnt>BY39MTBK30120001093300090355</db_accnt>
+                                    <cr_accnt>BY79OLMP30120005654360000933</cr_accnt>
+                                    <bnk_code>OLMPBY2X</bnk_code>
+                                    <db_unp>193015013</db_unp>
+                                    <db_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</db_name>
+                                    <cr_unp>190612002</cr_unp>
+                                    <cr_name>ООО&quot;РЕНТАЛЮКС&quot;</cr_name>
+                                    <pmdt>КОММУНАЛЬНЫЕ УСЛУГИ ЗА АПРЕЛЬ  2018 СОГЛАСНО СЧЕТА  188 ОТ 11 МАЯ 2018Г К ДОГОВОРУ АРЕНДЫ 062/2018 ОТ 05.02.2018Г.</pmdt>
+                                </trns_list_ROW>
+                                <trns_list_ROW>
+                                    <trns_code>6074083655</trns_code>
+                                    <flow>D</flow>
+                                    <amount>74.14</amount>
+                                    <currency>933</currency>
+                                    <timestamp>20180710104855</timestamp>
+                                    <db_accnt>BY39MTBK30120001093300090355</db_accnt>
+                                    <cr_accnt>BY79OLMP30120005654360000933</cr_accnt>
+                                    <bnk_code>OLMPBY2X</bnk_code>
+                                    <db_unp>193015013</db_unp>
+                                    <db_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</db_name>
+                                    <cr_unp>190612002</cr_unp>
+                                    <cr_name>ООО&quot;РЕНТАЛЮКС&quot;</cr_name>
+                                    <pmdt>КОММУНАЛЬНЫЕ УСЛУГИ ЗА МАЙ  2018 СОГЛАСНО СЧЕТА  221 ОТ 11 ИЮНЯ 2018Г К ДОГОВОРУ АРЕНДЫ 062/2018 ОТ 05.02.2018Г.</pmdt>
+                                </trns_list_ROW>
+                            </trns_list>
+                        </date_list_ROW>
+                        <date_list_ROW>
+                            <dt>20180717</dt>
+                            <blnc_on_begin_dt>1879.27</blnc_on_begin_dt>
+                            <blnc_on_end_dt>1878.52</blnc_on_end_dt>
+                            <trns_list>
+                                <trns_list_ROW>
+                                    <trns_code>6106234909</trns_code>
+                                    <flow>D</flow>
+                                    <amount>0.75</amount>
+                                    <currency>933</currency>
+                                    <timestamp>20180717091543</timestamp>
+                                    <db_accnt>BY39MTBK30120001093300090355</db_accnt>
+                                    <cr_accnt>BY30AKBB36029450100090000000</cr_accnt>
+                                    <bnk_code>AKBBBY2X</bnk_code>
+                                    <db_unp>193015013</db_unp>
+                                    <db_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</db_name>
+                                    <cr_unp>104521003</cr_unp>
+                                    <cr_name>ГЛАВНОЕ УПРАВЛЕНИЕ МИНИСТЕРСТВА ФИНАНСОВ РБ ПО Г.МИНСКУ</cr_name>
+                                    <pmdt>ОПЛАТА ПЕНИ.РЕГИСТРАЦИОННЫЙ НОМЕР 521051879</pmdt>
+                                </trns_list_ROW>
+                            </trns_list>
+                        </date_list_ROW>
+                        <date_list_ROW>
+                            <dt>20180731</dt>
+                            <blnc_on_begin_dt>1878.52</blnc_on_begin_dt>
+                            <blnc_on_end_dt>1858.62</blnc_on_end_dt>
+                            <trns_list>
+                                <trns_list_ROW>
+                                    <trns_code>6155421200</trns_code>
+                                    <flow>D</flow>
+                                    <amount>19.90</amount>
+                                    <currency>933</currency>
+                                    <timestamp>20180731204026</timestamp>
+                                    <db_accnt>BY39MTBK30120001093300090355</db_accnt>
+                                    <cr_accnt>BY82MTBK67000000000001478945</cr_accnt>
+                                    <bnk_code></bnk_code>
+                                    <db_unp>193015013</db_unp>
+                                    <db_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</db_name>
+                                    <cr_unp>193015013</cr_unp>
+                                    <cr_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</cr_name>
+                                    <pmdt>КОМИССИЯ ЗА РАСЧЕТНО-КАССОВОЕ ОБСЛУЖИВАНИЕ ЮРИДИЧЕСКОГО ЛИЦА (ИНДИВИДУАЛЬНОГО ПРЕДПРИНИМАТЕЛЯ) ПО ТАРИФНОМУ ПЛАНУ &quot;ПЕРВЫЙ СЧЕТ&quot; ЗА ИЮЛЬ 2018 ГОДА Г. ОСНОВАНИЕ: П.2 ПРИЛОЖЕНИЯ 5 К ПЕРЕЧНЮ ПЕРЕЧНЯ ВОЗНАГРАЖДЕНИЙ ЗАО &quot;МТБАНК&quot;. БЕЗ НДС</pmdt>
+                                </trns_list_ROW>
+                            </trns_list>
+                        </date_list_ROW>
+                        <date_list_ROW>
+                            <dt>20180810</dt>
+                            <blnc_on_begin_dt>1858.62</blnc_on_begin_dt>
+                            <blnc_on_end_dt>1631.48</blnc_on_end_dt>
+                            <trns_list>
+                                <trns_list_ROW>
+                                    <trns_code>6197146712</trns_code>
+                                    <flow>D</flow>
+                                    <amount>58.80</amount>
+                                    <currency>933</currency>
+                                    <timestamp>20180810093132</timestamp>
+                                    <db_accnt>BY39MTBK30120001093300090355</db_accnt>
+                                    <cr_accnt>BY30AKBB36029450100090000000</cr_accnt>
+                                    <bnk_code>AKBBBY2X</bnk_code>
+                                    <db_unp>193015013</db_unp>
+                                    <db_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</db_name>
+                                    <cr_unp>104521003</cr_unp>
+                                    <cr_name>ГЛАВНОЕ УПРАВЛЕНИЕ МИНИСТЕРСТВА ФИНАНСОВ РБ ПО Г.МИНСКУ</cr_name>
+                                    <pmdt>ФСЗН ЗА ИЮЛЬ 2018Г.РЕГИСТРАЦИОННЫЙ НОМЕР 521051879</pmdt>
+                                </trns_list_ROW>
+                                <trns_list_ROW>
+                                    <trns_code>6197146719</trns_code>
+                                    <flow>D</flow>
+                                    <amount>21.84</amount>
+                                    <currency>933</currency>
+                                    <timestamp>20180810093132</timestamp>
+                                    <db_accnt>BY39MTBK30120001093300090355</db_accnt>
+                                    <cr_accnt>BY43AKBB36021010005210000000</cr_accnt>
+                                    <bnk_code>AKBBBY2X</bnk_code>
+                                    <db_unp>193015013</db_unp>
+                                    <db_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</db_name>
+                                    <cr_unp>101530339</cr_unp>
+                                    <cr_name>ГЛАВНОЕ УПРАВЛЕНИЕ МИНИСТЕРСТВА ФИНАНСОВ РБ ПО Г.МИНСКУ</cr_name>
+                                    <pmdt>ПОДОХОДНЫЙ НАЛОГ ЗА ИЮЛЬ 2018Г.ПО СРОКУ УПЛАТЫ 10.08.2018Г.</pmdt>
+                                </trns_list_ROW>
+                                <trns_list_ROW>
+                                    <trns_code>6197146740</trns_code>
+                                    <flow>D</flow>
+                                    <amount>1.01</amount>
+                                    <currency>933</currency>
+                                    <timestamp>20180810093133</timestamp>
+                                    <db_accnt>BY39MTBK30120001093300090355</db_accnt>
+                                    <cr_accnt>BY30AKBB30115240001480000000</cr_accnt>
+                                    <bnk_code>AKBBBY2X</bnk_code>
+                                    <db_unp>193015013</db_unp>
+                                    <db_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</db_name>
+                                    <cr_unp>100122726</cr_unp>
+                                    <cr_name>ФИЛИАЛ БЕЛГОССТРАХА ПО ГОРОДУ МИНСКУ</cr_name>
+                                    <pmdt>ОТЧИСЛЕНИЯ ПО ОБЯЗАТЕЛЬНОМУ СТРАХОВАНИЮ ОТ НЕСЧАСТНЫХ СЛУЧАЕВ НА ПРОИЗВОДСТВЕ.РЕГИСТАЦИОННЫЙ НОМЕР 500207109</pmdt>
+                                </trns_list_ROW>
+                                <trns_list_ROW>
+                                    <trns_code>6197221451</trns_code>
+                                    <flow>D</flow>
+                                    <amount>144.48</amount>
+                                    <currency>933</currency>
+                                    <timestamp>20180810103402</timestamp>
+                                    <db_accnt>BY39MTBK30120001093300090355</db_accnt>
+                                    <cr_accnt>BY30MTBK38120000000000017697</cr_accnt>
+                                    <bnk_code></bnk_code>
+                                    <db_unp>193015013</db_unp>
+                                    <db_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</db_name>
+                                    <cr_unp>193015013</cr_unp>
+                                    <cr_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</cr_name>
+                                    <pmdt>ВЫПЛАТА ЗАРАБОТНОЙ ПЛАТЫ ЗА ИЮЛЬ  2018 ГОДА СОТРУДНИКАМ ООО&quot;КРИПТОТРЕЙД&quot;ПО СПИСКУ  3 ОТ 10 АВГУСТА 2018Г.СОГЛАСНО ДОГОВОРУ. НАЛОГИ И ОБЯЗАТЕЛЬНЫЕ ПЛАТЕЖИ УДЕРЖАНЫ В БЮДЖЕТ.</pmdt>
+                                </trns_list_ROW>
+                                <trns_list_ROW>
+                                    <trns_code>6197221471</trns_code>
+                                    <flow>D</flow>
+                                    <amount>1.01</amount>
+                                    <currency>933</currency>
+                                    <timestamp>20180810103402</timestamp>
+                                    <db_accnt>BY39MTBK30120001093300090355</db_accnt>
+                                    <cr_accnt>BY08MTBK38190700000000453109</cr_accnt>
+                                    <bnk_code></bnk_code>
+                                    <db_unp>193015013</db_unp>
+                                    <db_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</db_name>
+                                    <cr_unp>193015013</cr_unp>
+                                    <cr_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</cr_name>
+                                    <pmdt>КОМИССИОННОЕ ВОЗНАГРАЖДЕНИЕ БАНКА ЗА ПЕРЕВОД СРЕДСТВ НА ВЫПЛАТУ ЗАРАБОТНОЙ ПЛАТЫ СО СЧЕТА ЮРИДИЧЕСКОГО ЛИЦА НА СЧЕТ КЛИЕНТА СОГЛАСНО ДОГОВОРУ.</pmdt>
+                                </trns_list_ROW>
+                            </trns_list>
+                        </date_list_ROW>
+                        <date_list_ROW>
+                            <dt>20180821</dt>
+                            <blnc_on_begin_dt>1631.48</blnc_on_begin_dt>
+                            <blnc_on_end_dt>1206.49</blnc_on_end_dt>
+                            <trns_list>
+                                <trns_list_ROW>
+                                    <trns_code>6241604726</trns_code>
+                                    <flow>D</flow>
+                                    <amount>83.87</amount>
+                                    <currency>933</currency>
+                                    <timestamp>20180821093019</timestamp>
+                                    <db_accnt>BY39MTBK30120001093300090355</db_accnt>
+                                    <cr_accnt>BY79OLMP30120005654360000933</cr_accnt>
+                                    <bnk_code>OLMPBY2X</bnk_code>
+                                    <db_unp>193015013</db_unp>
+                                    <db_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</db_name>
+                                    <cr_unp>190612002</cr_unp>
+                                    <cr_name>ООО&quot;РЕНТАЛЮКС&quot;</cr_name>
+                                    <pmdt>КОММУНАЛЬНЫЕ УСЛУГИ ЗА ИЮНЬ 2018 СОГЛАСНО СЧЕТА  269  ОТ 11 ИЮЛЯ 2018Г К ДОГОВОРУ АРЕНДЫ 062/2018 ОТ 05.02.2018Г.</pmdt>
+                                </trns_list_ROW>
+                                <trns_list_ROW>
+                                    <trns_code>6241604772</trns_code>
+                                    <flow>D</flow>
+                                    <amount>252.41</amount>
+                                    <currency>933</currency>
+                                    <timestamp>20180821093020</timestamp>
+                                    <db_accnt>BY39MTBK30120001093300090355</db_accnt>
+                                    <cr_accnt>BY79OLMP30120005654360000933</cr_accnt>
+                                    <bnk_code>OLMPBY2X</bnk_code>
+                                    <db_unp>193015013</db_unp>
+                                    <db_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</db_name>
+                                    <cr_unp>190612002</cr_unp>
+                                    <cr_name>ООО&quot;РЕНТАЛЮКС&quot;</cr_name>
+                                    <pmdt>АРЕНДНАЯ ПЛАТА ЗА АВГУСТ 2018 СОГЛАСНО ДОГОВОРА АРЕНДЫ 062/2018 ОТ 05 ФЕВРАЛЯ 2018Г</pmdt>
+                                </trns_list_ROW>
+                                <trns_list_ROW>
+                                    <trns_code>6241604819</trns_code>
+                                    <flow>D</flow>
+                                    <amount>88.71</amount>
+                                    <currency>933</currency>
+                                    <timestamp>20180821093021</timestamp>
+                                    <db_accnt>BY39MTBK30120001093300090355</db_accnt>
+                                    <cr_accnt>BY79OLMP30120005654360000933</cr_accnt>
+                                    <bnk_code>OLMPBY2X</bnk_code>
+                                    <db_unp>193015013</db_unp>
+                                    <db_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</db_name>
+                                    <cr_unp>190612002</cr_unp>
+                                    <cr_name>ООО&quot;РЕНТАЛЮКС&quot;</cr_name>
+                                    <pmdt>КОММУНАЛЬНЫЕ УСЛУГИ ЗА ИЮЛЬ 2018 СОГЛАСНО СЧЕТА  318  ОТ 13 АВГУСТА  2018Г К ДОГОВОРУ АРЕНДЫ 062/2018 ОТ 05.02.2018Г.</pmdt>
+                                </trns_list_ROW>
+                            </trns_list>
+                        </date_list_ROW>
+                        <date_list_ROW>
+                            <dt>20180831</dt>
+                            <blnc_on_begin_dt>1206.49</blnc_on_begin_dt>
+                            <blnc_on_end_dt>1186.59</blnc_on_end_dt>
+                            <trns_list>
+                                <trns_list_ROW>
+                                    <trns_code>6278248563</trns_code>
+                                    <flow>D</flow>
+                                    <amount>19.90</amount>
+                                    <currency>933</currency>
+                                    <timestamp>20180831204031</timestamp>
+                                    <db_accnt>BY39MTBK30120001093300090355</db_accnt>
+                                    <cr_accnt>BY82MTBK67000000000001478945</cr_accnt>
+                                    <bnk_code></bnk_code>
+                                    <db_unp>193015013</db_unp>
+                                    <db_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</db_name>
+                                    <cr_unp>193015013</cr_unp>
+                                    <cr_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</cr_name>
+                                    <pmdt>КОМИССИЯ ЗА РАСЧЕТНО-КАССОВОЕ ОБСЛУЖИВАНИЕ ЮРИДИЧЕСКОГО ЛИЦА (ИНДИВИДУАЛЬНОГО ПРЕДПРИНИМАТЕЛЯ) ПО ТАРИФНОМУ ПЛАНУ &quot;ПЕРВЫЙ СЧЕТ&quot; ЗА АВГУСТ 2018 ГОДА Г. ОСНОВАНИЕ: П.2 ПРИЛОЖЕНИЯ 5 К ПЕРЕЧНЮ ПЕРЕЧНЯ ВОЗНАГРАЖДЕНИЙ ЗАО &quot;МТБАНК&quot;. БЕЗ НДС</pmdt>
+                                </trns_list_ROW>
+                            </trns_list>
+                        </date_list_ROW>
+                        <date_list_ROW>
+                            <dt>20180910</dt>
+                            <blnc_on_begin_dt>1186.59</blnc_on_begin_dt>
+                            <blnc_on_end_dt>796.15</blnc_on_end_dt>
+                            <trns_list>
+                                <trns_list_ROW>
+                                    <trns_code>6311971046</trns_code>
+                                    <flow>D</flow>
+                                    <amount>21.84</amount>
+                                    <currency>933</currency>
+                                    <timestamp>20180910125759</timestamp>
+                                    <db_accnt>BY39MTBK30120001093300090355</db_accnt>
+                                    <cr_accnt>BY43AKBB36021010005210000000</cr_accnt>
+                                    <bnk_code>AKBBBY2X</bnk_code>
+                                    <db_unp>193015013</db_unp>
+                                    <db_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</db_name>
+                                    <cr_unp>101530339</cr_unp>
+                                    <cr_name>ГЛАВНОЕ УПРАВЛЕНИЕ МИНИСТЕРСТВА ФИНАНСОВ РБ ПО Г.МИНСКУ</cr_name>
+                                    <pmdt>ПОДОХОДНЫЙ НАЛОГ ЗА АВГУСТ 2018Г.ПО СРОКУ УПЛАТЫ 10.09.2018Г.</pmdt>
+                                </trns_list_ROW>
+                                <trns_list_ROW>
+                                    <trns_code>6311971066</trns_code>
+                                    <flow>D</flow>
+                                    <amount>58.80</amount>
+                                    <currency>933</currency>
+                                    <timestamp>20180910125800</timestamp>
+                                    <db_accnt>BY39MTBK30120001093300090355</db_accnt>
+                                    <cr_accnt>BY30AKBB36029450100090000000</cr_accnt>
+                                    <bnk_code>AKBBBY2X</bnk_code>
+                                    <db_unp>193015013</db_unp>
+                                    <db_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</db_name>
+                                    <cr_unp>104521003</cr_unp>
+                                    <cr_name>ГЛАВНОЕ УПРАВЛЕНИЕ МИНИСТЕРСТВА ФИНАНСОВ РБ ПО Г.МИНСКУ</cr_name>
+                                    <pmdt>ФСЗН ЗА АВГУСТ 2018Г.РЕГИСТРАЦИОННЫЙ НОМЕР 521051879</pmdt>
+                                </trns_list_ROW>
+                                <trns_list_ROW>
+                                    <trns_code>6311971081</trns_code>
+                                    <flow>D</flow>
+                                    <amount>1.01</amount>
+                                    <currency>933</currency>
+                                    <timestamp>20180910125801</timestamp>
+                                    <db_accnt>BY39MTBK30120001093300090355</db_accnt>
+                                    <cr_accnt>BY30AKBB30115240001480000000</cr_accnt>
+                                    <bnk_code>AKBBBY2X</bnk_code>
+                                    <db_unp>193015013</db_unp>
+                                    <db_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</db_name>
+                                    <cr_unp>100122726</cr_unp>
+                                    <cr_name>ФИЛИАЛ БЕЛГОССТРАХА ПО ГОРОДУ МИНСКУ</cr_name>
+                                    <pmdt>ОТЧИСЛЕНИЯ ПО ОБЯЗАТЕЛЬНОМУ СТРАХОВАНИЮ ОТ НЕСЧАСТНЫХ СЛУЧАЕВ НА ПРОИЗВОДСТВЕ.РЕГИСТАЦИОННЫЙ НОМЕР 500207109</pmdt>
+                                </trns_list_ROW>
+                                <trns_list_ROW>
+                                    <trns_code>6311971100</trns_code>
+                                    <flow>D</flow>
+                                    <amount>58.80</amount>
+                                    <currency>933</currency>
+                                    <timestamp>20180910125801</timestamp>
+                                    <db_accnt>BY39MTBK30120001093300090355</db_accnt>
+                                    <cr_accnt>BY30AKBB36029450100090000000</cr_accnt>
+                                    <bnk_code>AKBBBY2X</bnk_code>
+                                    <db_unp>193015013</db_unp>
+                                    <db_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</db_name>
+                                    <cr_unp>104521003</cr_unp>
+                                    <cr_name>ГЛАВНОЕ УПРАВЛЕНИЕ МИНИСТЕРСТВА ФИНАНСОВ РБ ПО Г.МИНСКУ</cr_name>
+                                    <pmdt>ФСЗН ЗА АВГУСТ 2018Г.РЕГИСТРАЦИОННЫЙ НОМЕР 521051879</pmdt>
+                                </trns_list_ROW>
+                                <trns_list_ROW>
+                                    <trns_code>6311971132</trns_code>
+                                    <flow>D</flow>
+                                    <amount>21.84</amount>
+                                    <currency>933</currency>
+                                    <timestamp>20180910125802</timestamp>
+                                    <db_accnt>BY39MTBK30120001093300090355</db_accnt>
+                                    <cr_accnt>BY43AKBB36021010005210000000</cr_accnt>
+                                    <bnk_code>AKBBBY2X</bnk_code>
+                                    <db_unp>193015013</db_unp>
+                                    <db_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</db_name>
+                                    <cr_unp>101530339</cr_unp>
+                                    <cr_name>ГЛАВНОЕ УПРАВЛЕНИЕ МИНИСТЕРСТВА ФИНАНСОВ РБ ПО Г.МИНСКУ</cr_name>
+                                    <pmdt>ПОДОХОДНЫЙ НАЛОГ ЗА АВГУСТ 2018Г.ПО СРОКУ УПЛАТЫ 10.09.2018Г.</pmdt>
+                                </trns_list_ROW>
+                                <trns_list_ROW>
+                                    <trns_code>6311971169</trns_code>
+                                    <flow>D</flow>
+                                    <amount>1.01</amount>
+                                    <currency>933</currency>
+                                    <timestamp>20180910125803</timestamp>
+                                    <db_accnt>BY39MTBK30120001093300090355</db_accnt>
+                                    <cr_accnt>BY30AKBB30115240001480000000</cr_accnt>
+                                    <bnk_code>AKBBBY2X</bnk_code>
+                                    <db_unp>193015013</db_unp>
+                                    <db_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</db_name>
+                                    <cr_unp>100122726</cr_unp>
+                                    <cr_name>ФИЛИАЛ БЕЛГОССТРАХА ПО ГОРОДУ МИНСКУ</cr_name>
+                                    <pmdt>ОТЧИСЛЕНИЯ ПО ОБЯЗАТЕЛЬНОМУ СТРАХОВАНИЮ ОТ НЕСЧАСТНЫХ СЛУЧАЕВ НА ПРОИЗВОДСТВЕ.РЕГИСТАЦИОННЫЙ НОМЕР 500207109</pmdt>
+                                </trns_list_ROW>
+                                <trns_list_ROW>
+                                    <trns_code>6311971202</trns_code>
+                                    <flow>D</flow>
+                                    <amount>58.80</amount>
+                                    <currency>933</currency>
+                                    <timestamp>20180910125804</timestamp>
+                                    <db_accnt>BY39MTBK30120001093300090355</db_accnt>
+                                    <cr_accnt>BY30AKBB36029450100090000000</cr_accnt>
+                                    <bnk_code>AKBBBY2X</bnk_code>
+                                    <db_unp>193015013</db_unp>
+                                    <db_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</db_name>
+                                    <cr_unp>104521003</cr_unp>
+                                    <cr_name>ГЛАВНОЕ УПРАВЛЕНИЕ МИНИСТЕРСТВА ФИНАНСОВ РБ ПО Г.МИНСКУ</cr_name>
+                                    <pmdt>ФСЗН ЗА АВГУСТ 2018Г.РЕГИСТРАЦИОННЫЙ НОМЕР 521051879</pmdt>
+                                </trns_list_ROW>
+                                <trns_list_ROW>
+                                    <trns_code>6311971221</trns_code>
+                                    <flow>D</flow>
+                                    <amount>21.84</amount>
+                                    <currency>933</currency>
+                                    <timestamp>20180910125804</timestamp>
+                                    <db_accnt>BY39MTBK30120001093300090355</db_accnt>
+                                    <cr_accnt>BY43AKBB36021010005210000000</cr_accnt>
+                                    <bnk_code>AKBBBY2X</bnk_code>
+                                    <db_unp>193015013</db_unp>
+                                    <db_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</db_name>
+                                    <cr_unp>101530339</cr_unp>
+                                    <cr_name>ГЛАВНОЕ УПРАВЛЕНИЕ МИНИСТЕРСТВА ФИНАНСОВ РБ ПО Г.МИНСКУ</cr_name>
+                                    <pmdt>ПОДОХОДНЫЙ НАЛОГ ЗА АВГУСТ 2018Г.ПО СРОКУ УПЛАТЫ 10.09.2018Г.</pmdt>
+                                </trns_list_ROW>
+                                <trns_list_ROW>
+                                    <trns_code>6311971245</trns_code>
+                                    <flow>D</flow>
+                                    <amount>1.01</amount>
+                                    <currency>933</currency>
+                                    <timestamp>20180910125805</timestamp>
+                                    <db_accnt>BY39MTBK30120001093300090355</db_accnt>
+                                    <cr_accnt>BY30AKBB30115240001480000000</cr_accnt>
+                                    <bnk_code>AKBBBY2X</bnk_code>
+                                    <db_unp>193015013</db_unp>
+                                    <db_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</db_name>
+                                    <cr_unp>100122726</cr_unp>
+                                    <cr_name>ФИЛИАЛ БЕЛГОССТРАХА ПО ГОРОДУ МИНСКУ</cr_name>
+                                    <pmdt>ОТЧИСЛЕНИЯ ПО ОБЯЗАТЕЛЬНОМУ СТРАХОВАНИЮ ОТ НЕСЧАСТНЫХ СЛУЧАЕВ НА ПРОИЗВОДСТВЕ.РЕГИСТАЦИОННЫЙ НОМЕР 500207109</pmdt>
+                                </trns_list_ROW>
+                                <trns_list_ROW>
+                                    <trns_code>6311977813</trns_code>
+                                    <flow>D</flow>
+                                    <amount>144.48</amount>
+                                    <currency>933</currency>
+                                    <timestamp>20180910130109</timestamp>
+                                    <db_accnt>BY39MTBK30120001093300090355</db_accnt>
+                                    <cr_accnt>BY30MTBK38120000000000017697</cr_accnt>
+                                    <bnk_code></bnk_code>
+                                    <db_unp>193015013</db_unp>
+                                    <db_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</db_name>
+                                    <cr_unp>193015013</cr_unp>
+                                    <cr_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</cr_name>
+                                    <pmdt>ВЫПЛАТА ЗАРАБОТНОЙ ПЛАТЫ ЗА АВГУСТ  2018 ГОДА СОТРУДНИКАМ ООО&quot;КРИПТОТРЕЙД&quot;ПО СПИСКУ  4 ОТ 10 СЕНТЯБРЯ 2018Г.СОГЛАСНО ДОГОВОРУ. НАЛОГИ И ОБЯЗАТЕЛЬНЫЕ ПЛАТЕЖИ УДЕРЖАНЫ В БЮДЖЕТ.</pmdt>
+                                </trns_list_ROW>
+                                <trns_list_ROW>
+                                    <trns_code>6311977852</trns_code>
+                                    <flow>D</flow>
+                                    <amount>1.01</amount>
+                                    <currency>933</currency>
+                                    <timestamp>20180910130110</timestamp>
+                                    <db_accnt>BY39MTBK30120001093300090355</db_accnt>
+                                    <cr_accnt>BY08MTBK38190700000000453109</cr_accnt>
+                                    <bnk_code></bnk_code>
+                                    <db_unp>193015013</db_unp>
+                                    <db_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</db_name>
+                                    <cr_unp>193015013</cr_unp>
+                                    <cr_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</cr_name>
+                                    <pmdt>КОМИССИОННОЕ ВОЗНАГРАЖДЕНИЕ БАНКА ЗА ПЕРЕВОД СРЕДСТВ НА ВЫПЛАТУ ЗАРАБОТНОЙ ПЛАТЫ СО СЧЕТА ЮРИДИЧЕСКОГО ЛИЦА НА СЧЕТ КЛИЕНТА СОГЛАСНО ДОГОВОРУ.</pmdt>
+                                </trns_list_ROW>
+                            </trns_list>
+                        </date_list_ROW>
+                        <date_list_ROW>
+                            <dt>20180912</dt>
+                            <blnc_on_begin_dt>796.15</blnc_on_begin_dt>
+                            <blnc_on_end_dt>422.22</blnc_on_end_dt>
+                            <trns_list>
+                                <trns_list_ROW>
+                                    <trns_code>6323113647</trns_code>
+                                    <flow>D</flow>
+                                    <amount>272.02</amount>
+                                    <currency>933</currency>
+                                    <timestamp>20180912091152</timestamp>
+                                    <db_accnt>BY39MTBK30120001093300090355</db_accnt>
+                                    <cr_accnt>BY79OLMP30120005654360000933</cr_accnt>
+                                    <bnk_code>OLMPBY2X</bnk_code>
+                                    <db_unp>193015013</db_unp>
+                                    <db_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</db_name>
+                                    <cr_unp>190612002</cr_unp>
+                                    <cr_name>ООО&quot;РЕНТАЛЮКС&quot;</cr_name>
+                                    <pmdt>АРЕНДНАЯ ПЛАТА ЗА СЕНТЯБРЬ 2018 СОГЛАСНО ДОГОВОРА АРЕНДЫ 062/2018 ОТ 05 ФЕВРАЛЯ 2018Г</pmdt>
+                                </trns_list_ROW>
+                                <trns_list_ROW>
+                                    <trns_code>6323113649</trns_code>
+                                    <flow>D</flow>
+                                    <amount>101.91</amount>
+                                    <currency>933</currency>
+                                    <timestamp>20180912091153</timestamp>
+                                    <db_accnt>BY39MTBK30120001093300090355</db_accnt>
+                                    <cr_accnt>BY79OLMP30120005654360000933</cr_accnt>
+                                    <bnk_code>OLMPBY2X</bnk_code>
+                                    <db_unp>193015013</db_unp>
+                                    <db_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</db_name>
+                                    <cr_unp>190612002</cr_unp>
+                                    <cr_name>ООО&quot;РЕНТАЛЮКС&quot;</cr_name>
+                                    <pmdt>КОММУНАЛЬНЫЕ УСЛУГИ ЗА АВГУСТ 2018 СОГЛАСНО СЧЕТА  365  ОТ 10 СЕНТЯБРЯ  2018Г К ДОГОВОРУ АРЕНДЫ 062/2018 ОТ 05.02.2018Г.</pmdt>
+                                </trns_list_ROW>
+                            </trns_list>
+                        </date_list_ROW>
+                        <date_list_ROW>
+                            <dt>20180928</dt>
+                            <blnc_on_begin_dt>422.22</blnc_on_begin_dt>
+                            <blnc_on_end_dt>402.32</blnc_on_end_dt>
+                            <trns_list>
+                                <trns_list_ROW>
+                                    <trns_code>6388692981</trns_code>
+                                    <flow>D</flow>
+                                    <amount>19.90</amount>
+                                    <currency>933</currency>
+                                    <timestamp>20180928203722</timestamp>
+                                    <db_accnt>BY39MTBK30120001093300090355</db_accnt>
+                                    <cr_accnt>BY82MTBK67000000000001478945</cr_accnt>
+                                    <bnk_code></bnk_code>
+                                    <db_unp>193015013</db_unp>
+                                    <db_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</db_name>
+                                    <cr_unp>193015013</cr_unp>
+                                    <cr_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</cr_name>
+                                    <pmdt>КОМИССИЯ ЗА РАСЧЕТНО-КАССОВОЕ ОБСЛУЖИВАНИЕ ЮРИДИЧЕСКОГО ЛИЦА (ИНДИВИДУАЛЬНОГО ПРЕДПРИНИМАТЕЛЯ) ПО ТАРИФНОМУ ПЛАНУ &quot;ПЕРВЫЙ СЧЕТ&quot; ЗА СЕНТЯБРЬ 2018 ГОДА Г. ОСНОВАНИЕ: П.2 ПРИЛОЖЕНИЯ 5 К ПЕРЕЧНЮ ПЕРЕЧНЯ ВОЗНАГРАЖДЕНИЙ ЗАО &quot;МТБАНК&quot;. БЕЗ НДС</pmdt>
+                                </trns_list_ROW>
+                            </trns_list>
+                        </date_list_ROW>
+                        <date_list_ROW>
+                            <dt>20181010</dt>
+                            <blnc_on_begin_dt>402.32</blnc_on_begin_dt>
+                            <blnc_on_end_dt>253.82</blnc_on_end_dt>
+                            <trns_list>
+                                <trns_list_ROW>
+                                    <trns_code>6431919376</trns_code>
+                                    <flow>D</flow>
+                                    <amount>1.00</amount>
+                                    <currency>933</currency>
+                                    <timestamp>20181010100917</timestamp>
+                                    <db_accnt>BY39MTBK30120001093300090355</db_accnt>
+                                    <cr_accnt>BY30AKBB36029450100090000000</cr_accnt>
+                                    <bnk_code>AKBBBY2X</bnk_code>
+                                    <db_unp>193015013</db_unp>
+                                    <db_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</db_name>
+                                    <cr_unp>104521003</cr_unp>
+                                    <cr_name>ГЛАВНОЕ УПРАВЛЕНИЕ МИНИСТЕРСТВА ФИНАНСОВ РБ ПО Г.МИНСКУ</cr_name>
+                                    <pmdt>ФСЗН ЗА  СЕНТЯБРЬ 2018Г.РЕГИСТРАЦИОННЫЙ НОМЕР 521051879</pmdt>
+                                </trns_list_ROW>
+                                <trns_list_ROW>
+                                    <trns_code>6431919394</trns_code>
+                                    <flow>D</flow>
+                                    <amount>1.00</amount>
+                                    <currency>933</currency>
+                                    <timestamp>20181010100918</timestamp>
+                                    <db_accnt>BY39MTBK30120001093300090355</db_accnt>
+                                    <cr_accnt>BY43AKBB36021010005210000000</cr_accnt>
+                                    <bnk_code>AKBBBY2X</bnk_code>
+                                    <db_unp>193015013</db_unp>
+                                    <db_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</db_name>
+                                    <cr_unp>101530339</cr_unp>
+                                    <cr_name>ГЛАВНОЕ УПРАВЛЕНИЕ МИНИСТЕРСТВА ФИНАНСОВ РБ ПО Г.МИНСКУ</cr_name>
+                                    <pmdt>ПОДОХОДНЫЙ НАЛОГ ЗА СЕНТЯБРЬ 2018Г.ПО СРОКУ УПЛАТЫ 10.10.2018Г.</pmdt>
+                                </trns_list_ROW>
+                                <trns_list_ROW>
+                                    <trns_code>6431919467</trns_code>
+                                    <flow>D</flow>
+                                    <amount>1.01</amount>
+                                    <currency>933</currency>
+                                    <timestamp>20181010100925</timestamp>
+                                    <db_accnt>BY39MTBK30120001093300090355</db_accnt>
+                                    <cr_accnt>BY30AKBB30115240001480000000</cr_accnt>
+                                    <bnk_code>AKBBBY2X</bnk_code>
+                                    <db_unp>193015013</db_unp>
+                                    <db_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</db_name>
+                                    <cr_unp>100122726</cr_unp>
+                                    <cr_name>ФИЛИАЛ БЕЛГОССТРАХА ПО ГОРОДУ МИНСКУ</cr_name>
+                                    <pmdt>ОТЧИСЛЕНИЯ ПО ОБЯЗАТЕЛЬНОМУ СТРАХОВАНИЮ ОТ НЕСЧАСТНЫХ СЛУЧАЕВ НА ПРОИЗВОДСТВЕ.РЕГИСТАЦИОННЫЙ НОМЕР 500207109</pmdt>
+                                </trns_list_ROW>
+                                <trns_list_ROW>
+                                    <trns_code>6431919573</trns_code>
+                                    <flow>D</flow>
+                                    <amount>1.01</amount>
+                                    <currency>933</currency>
+                                    <timestamp>20181010100938</timestamp>
+                                    <db_accnt>BY39MTBK30120001093300090355</db_accnt>
+                                    <cr_accnt>BY08MTBK38190700000000453109</cr_accnt>
+                                    <bnk_code></bnk_code>
+                                    <db_unp>193015013</db_unp>
+                                    <db_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</db_name>
+                                    <cr_unp>193015013</cr_unp>
+                                    <cr_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</cr_name>
+                                    <pmdt>КОМИССИОННОЕ ВОЗНАГРАЖДЕНИЕ БАНКА ЗА ПЕРЕВОД СРЕДСТВ НА ВЫПЛАТУ ЗАРАБОТНОЙ ПЛАТЫ СО СЧЕТА ЮРИДИЧЕСКОГО ЛИЦА НА СЧЕТ КЛИЕНТА СОГЛАСНО ДОГОВОРУ.</pmdt>
+                                </trns_list_ROW>
+                                <trns_list_ROW>
+                                    <trns_code>6431919579</trns_code>
+                                    <flow>D</flow>
+                                    <amount>144.48</amount>
+                                    <currency>933</currency>
+                                    <timestamp>20181010100939</timestamp>
+                                    <db_accnt>BY39MTBK30120001093300090355</db_accnt>
+                                    <cr_accnt>BY30MTBK38120000000000017697</cr_accnt>
+                                    <bnk_code></bnk_code>
+                                    <db_unp>193015013</db_unp>
+                                    <db_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</db_name>
+                                    <cr_unp>193015013</cr_unp>
+                                    <cr_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</cr_name>
+                                    <pmdt>ВЫПЛАТА ЗАРАБОТНОЙ ПЛАТЫ ЗА СЕНТЯБРЬ  2018 ГОДА СОТРУДНИКАМ ООО&quot;КРИПТОТРЕЙД&quot;ПО СПИСКУ  5 ОТ 10 ОКТЯБРЯ 2018Г.СОГЛАСНО ДОГОВОРУ. НАЛОГИ И ОБЯЗАТЕЛЬНЫЕ ПЛАТЕЖИ УДЕРЖАНЫ В БЮДЖЕТ.</pmdt>
+                                </trns_list_ROW>
+                            </trns_list>
+                        </date_list_ROW>
+                        <date_list_ROW>
+                            <dt>20181015</dt>
+                            <blnc_on_begin_dt>253.82</blnc_on_begin_dt>
+                            <blnc_on_end_dt>0</blnc_on_end_dt>
+                            <trns_list>
+                                <trns_list_ROW>
+                                    <trns_code>6451546678</trns_code>
+                                    <flow>D</flow>
+                                    <amount>253.82</amount>
+                                    <currency>933</currency>
+                                    <timestamp>20181015090420</timestamp>
+                                    <db_accnt>BY39MTBK30120001093300090355</db_accnt>
+                                    <cr_accnt>BY79OLMP30120005654360000933</cr_accnt>
+                                    <bnk_code>OLMPBY2X</bnk_code>
+                                    <db_unp>193015013</db_unp>
+                                    <db_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</db_name>
+                                    <cr_unp>190612002</cr_unp>
+                                    <cr_name>ООО&quot;РЕНТАЛЮКС&quot;</cr_name>
+                                    <pmdt>АРЕНДНАЯ ПЛАТА ЗА ОКТЯБРЬ 2018 СОГЛАСНО ДОГОВОРА АРЕНДЫ 062/2018 ОТ 05 ФЕВРАЛЯ 2018Г</pmdt>
+                                </trns_list_ROW>
+                            </trns_list>
+                        </date_list_ROW>
+                        <date_list_ROW>
+                            <dt>20181102</dt>
+                            <blnc_on_begin_dt>0</blnc_on_begin_dt>
+                            <blnc_on_end_dt>3979.79</blnc_on_end_dt>
+                            <trns_list>
+                                <trns_list_ROW>
+                                    <trns_code>6523955401</trns_code>
+                                    <flow>C</flow>
+                                    <amount>3999.69</amount>
+                                    <currency>933</currency>
+                                    <timestamp>20181102155917</timestamp>
+                                    <db_accnt>BY85MTBK38090000000000001955</db_accnt>
+                                    <cr_accnt>BY39MTBK30120001093300090355</cr_accnt>
+                                    <bnk_code></bnk_code>
+                                    <db_unp>100394906</db_unp>
+                                    <db_name>ФИЗИЧЕСКИЕ ЛИЦА-РЕЗИДЕНТЫ</db_name>
+                                    <cr_unp>193015013</cr_unp>
+                                    <cr_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</cr_name>
+                                    <pmdt>Взнос по договору займа N2-11/2018/ от 02.11.2018 Снижко Игорь DOC паспорт иностранца FH FH346466, выд Украина 07.08.2017, адрес Украина,г.Одесса,ул.Саши Хорошенко,д.10а.Перевод не связан с предпринимательской деятельностью.</pmdt>
+                                </trns_list_ROW>
+                                <trns_list_ROW>
+                                    <trns_code>6524059308</trns_code>
+                                    <flow>D</flow>
+                                    <amount>19.90</amount>
+                                    <currency>933</currency>
+                                    <timestamp>20181102190816</timestamp>
+                                    <db_accnt>BY39MTBK30120001093300090355</db_accnt>
+                                    <cr_accnt>BY82MTBK67000000000001478945</cr_accnt>
+                                    <bnk_code></bnk_code>
+                                    <db_unp>193015013</db_unp>
+                                    <db_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</db_name>
+                                    <cr_unp>193015013</cr_unp>
+                                    <cr_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</cr_name>
+                                    <pmdt>КОМИССИЯ ЗА РАСЧЕТНО-КАССОВОЕ ОБСЛУЖИВАНИЕ ЮРИДИЧЕСКОГО ЛИЦА (ИНДИВИДУАЛЬНОГО ПРЕДПРИНИМАТЕЛЯ) ПО ТАРИФНОМУ ПЛАНУ &quot;ПЕРВЫЙ СЧЕТ&quot; ЗА ОКТЯБРЬ 2018 ГОДА Г. ОСНОВАНИЕ: П.2 ПРИЛОЖЕНИЯ 5 К ПЕРЕЧНЮ ПЕРЕЧНЯ ВОЗНАГРАЖДЕНИЙ ЗАО &quot;МТБАНК&quot;. БЕЗ НДС</pmdt>
+                                </trns_list_ROW>
+                            </trns_list>
+                        </date_list_ROW>
+                        <date_list_ROW>
+                            <dt>20181105</dt>
+                            <blnc_on_begin_dt>3979.79</blnc_on_begin_dt>
+                            <blnc_on_end_dt>3611.86</blnc_on_end_dt>
+                            <trns_list>
+                                <trns_list_ROW>
+                                    <trns_code>6529255952</trns_code>
+                                    <flow>D</flow>
+                                    <amount>12.31</amount>
+                                    <currency>933</currency>
+                                    <timestamp>20181105093118</timestamp>
+                                    <db_accnt>BY39MTBK30120001093300090355</db_accnt>
+                                    <cr_accnt>BY79OLMP30120005654360000933</cr_accnt>
+                                    <bnk_code>OLMPBY2X</bnk_code>
+                                    <db_unp>193015013</db_unp>
+                                    <db_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</db_name>
+                                    <cr_unp>190612002</cr_unp>
+                                    <cr_name>ООО&quot;РЕНТАЛЮКС&quot;</cr_name>
+                                    <pmdt>АРЕНДНАЯ ПЛАТА ЗА ОКТЯБРЬ 2018 СОГЛАСНО ДОГОВОРА АРЕНДЫ 062/2018 ОТ 05 ФЕВРАЛЯ 2018Г</pmdt>
+                                </trns_list_ROW>
+                                <trns_list_ROW>
+                                    <trns_code>6529255955</trns_code>
+                                    <flow>D</flow>
+                                    <amount>94.49</amount>
+                                    <currency>933</currency>
+                                    <timestamp>20181105093119</timestamp>
+                                    <db_accnt>BY39MTBK30120001093300090355</db_accnt>
+                                    <cr_accnt>BY79OLMP30120005654360000933</cr_accnt>
+                                    <bnk_code>OLMPBY2X</bnk_code>
+                                    <db_unp>193015013</db_unp>
+                                    <db_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</db_name>
+                                    <cr_unp>190612002</cr_unp>
+                                    <cr_name>ООО&quot;РЕНТАЛЮКС&quot;</cr_name>
+                                    <pmdt>КОММУНАЛЬНЫЕ УСЛУГИ ЗА СЕНТЯБРЬ 2018 СОГЛАСНО СЧЕТА  413  ОТ 12 ОКТЯБРЯ  2018Г К ДОГОВОРУ АРЕНДЫ 062/2018 ОТ 05.02.2018Г.</pmdt>
+                                </trns_list_ROW>
+                                <trns_list_ROW>
+                                    <trns_code>6529299063</trns_code>
+                                    <flow>C</flow>
+                                    <amount>0.31</amount>
+                                    <currency>933</currency>
+                                    <timestamp>20181105105207</timestamp>
+                                    <db_accnt>BY88MTBK38190000000000353391</db_accnt>
+                                    <cr_accnt>BY39MTBK30120001093300090355</cr_accnt>
+                                    <bnk_code></bnk_code>
+                                    <db_unp>100394906</db_unp>
+                                    <db_name>ФИЗИЧЕСКИЕ ЛИЦА-РЕЗИДЕНТЫ</db_name>
+                                    <cr_unp>193015013</cr_unp>
+                                    <cr_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</cr_name>
+                                    <pmdt>Принятые платежи: ВЗНОС ПО ДОГОВОРУ ЗАЙМА 2 11 2018 ОТ 02.11.2018 СНИЖКО ИГОРЬ . 1 плат.на сумму 0.31. Согл реестра принятых платежей.</pmdt>
+                                </trns_list_ROW>
+                                <trns_list_ROW>
+                                    <trns_code>6529563651</trns_code>
+                                    <flow>D</flow>
+                                    <amount>261.44</amount>
+                                    <currency>933</currency>
+                                    <timestamp>20181105152559</timestamp>
+                                    <db_accnt>BY39MTBK30120001093300090355</db_accnt>
+                                    <cr_accnt>BY79OLMP30120005654360000933</cr_accnt>
+                                    <bnk_code>OLMPBY2X</bnk_code>
+                                    <db_unp>193015013</db_unp>
+                                    <db_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</db_name>
+                                    <cr_unp>190612002</cr_unp>
+                                    <cr_name>ООО&quot;РЕНТАЛЮКС&quot;</cr_name>
+                                    <pmdt>АРЕНДНАЯ ПЛАТА ЗА НОЯБРЬ 2018 СОГЛАСНО ДОГОВОРА АРЕНДЫ 062/2018 ОТ 05 ФЕВРАЛЯ 2018Г</pmdt>
+                                </trns_list_ROW>
+                            </trns_list>
+                        </date_list_ROW>
+                        <date_list_ROW>
+                            <dt>20181109</dt>
+                            <blnc_on_begin_dt>3611.86</blnc_on_begin_dt>
+                            <blnc_on_end_dt>3462.37</blnc_on_end_dt>
+                            <trns_list>
+                                <trns_list_ROW>
+                                    <trns_code>6545412672</trns_code>
+                                    <flow>D</flow>
+                                    <amount>1.00</amount>
+                                    <currency>933</currency>
+                                    <timestamp>20181109101328</timestamp>
+                                    <db_accnt>BY39MTBK30120001093300090355</db_accnt>
+                                    <cr_accnt>BY43AKBB36021010005210000000</cr_accnt>
+                                    <bnk_code>AKBBBY2X</bnk_code>
+                                    <db_unp>193015013</db_unp>
+                                    <db_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</db_name>
+                                    <cr_unp>101530339</cr_unp>
+                                    <cr_name>ГЛАВНОЕ УПРАВЛЕНИЕ МИНИСТЕРСТВА ФИНАНСОВ РБ ПО Г.МИНСКУ</cr_name>
+                                    <pmdt>ПОДОХОДНЫЙ НАЛОГ ЗА ОКТЯБРЬ 2018Г.ПО СРОКУ УПЛАТЫ 10.11.2018Г.</pmdt>
+                                </trns_list_ROW>
+                                <trns_list_ROW>
+                                    <trns_code>6545412682</trns_code>
+                                    <flow>D</flow>
+                                    <amount>1.00</amount>
+                                    <currency>933</currency>
+                                    <timestamp>20181109101329</timestamp>
+                                    <db_accnt>BY39MTBK30120001093300090355</db_accnt>
+                                    <cr_accnt>BY30AKBB36029450100090000000</cr_accnt>
+                                    <bnk_code>AKBBBY2X</bnk_code>
+                                    <db_unp>193015013</db_unp>
+                                    <db_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</db_name>
+                                    <cr_unp>104521003</cr_unp>
+                                    <cr_name>ГЛАВНОЕ УПРАВЛЕНИЕ МИНИСТЕРСТВА ФИНАНСОВ РБ ПО Г.МИНСКУ</cr_name>
+                                    <pmdt>ФСЗН ЗА  ОКТЯБРЬ 2018Г.РЕГИСТРАЦИОННЫЙ НОМЕР 521051879</pmdt>
+                                </trns_list_ROW>
+                                <trns_list_ROW>
+                                    <trns_code>6545412691</trns_code>
+                                    <flow>D</flow>
+                                    <amount>2.00</amount>
+                                    <currency>933</currency>
+                                    <timestamp>20181109101330</timestamp>
+                                    <db_accnt>BY39MTBK30120001093300090355</db_accnt>
+                                    <cr_accnt>BY30AKBB30115240001480000000</cr_accnt>
+                                    <bnk_code>AKBBBY2X</bnk_code>
+                                    <db_unp>193015013</db_unp>
+                                    <db_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</db_name>
+                                    <cr_unp>100122726</cr_unp>
+                                    <cr_name>ФИЛИАЛ БЕЛГОССТРАХА ПО ГОРОДУ МИНСКУ</cr_name>
+                                    <pmdt>ОТЧИСЛЕНИЯ ПО ОБЯЗАТЕЛЬНОМУ СТРАХОВАНИЮ ОТ НЕСЧАСТНЫХ СЛУЧАЕВ НА ПРОИЗВОДСТВЕ.РЕГИСТАЦИОННЫЙ НОМЕР 500207109</pmdt>
+                                </trns_list_ROW>
+                                <trns_list_ROW>
+                                    <trns_code>6545415812</trns_code>
+                                    <flow>D</flow>
+                                    <amount>1.01</amount>
+                                    <currency>933</currency>
+                                    <timestamp>20181109101641</timestamp>
+                                    <db_accnt>BY39MTBK30120001093300090355</db_accnt>
+                                    <cr_accnt>BY08MTBK38190700000000453109</cr_accnt>
+                                    <bnk_code></bnk_code>
+                                    <db_unp>193015013</db_unp>
+                                    <db_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</db_name>
+                                    <cr_unp>193015013</cr_unp>
+                                    <cr_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</cr_name>
+                                    <pmdt>КОМИССИОННОЕ ВОЗНАГРАЖДЕНИЕ БАНКА ЗА ПЕРЕВОД СРЕДСТВ НА ВЫПЛАТУ ЗАРАБОТНОЙ ПЛАТЫ СО СЧЕТА ЮРИДИЧЕСКОГО ЛИЦА НА СЧЕТ КЛИЕНТА СОГЛАСНО ДОГОВОРУ.</pmdt>
+                                </trns_list_ROW>
+                                <trns_list_ROW>
+                                    <trns_code>6545415819</trns_code>
+                                    <flow>D</flow>
+                                    <amount>144.48</amount>
+                                    <currency>933</currency>
+                                    <timestamp>20181109101642</timestamp>
+                                    <db_accnt>BY39MTBK30120001093300090355</db_accnt>
+                                    <cr_accnt>BY30MTBK38120000000000017697</cr_accnt>
+                                    <bnk_code></bnk_code>
+                                    <db_unp>193015013</db_unp>
+                                    <db_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</db_name>
+                                    <cr_unp>193015013</cr_unp>
+                                    <cr_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</cr_name>
+                                    <pmdt>ВЫПЛАТА ЗАРАБОТНОЙ ПЛАТЫ ЗА ОКТЯБРЬ  2018 ГОДА СОТРУДНИКАМ ООО&quot;КРИПТОТРЕЙД&quot;ПО СПИСКУ  6 ОТ 09 НОЯБРЯ  2018Г.СОГЛАСНО ДОГОВОРУ. НАЛОГИ И ОБЯЗАТЕЛЬНЫЕ ПЛАТЕЖИ УДЕРЖАНЫ В БЮДЖЕТ.</pmdt>
+                                </trns_list_ROW>
+                            </trns_list>
+                        </date_list_ROW>
+                        <date_list_ROW>
+                            <dt>20181116</dt>
+                            <blnc_on_begin_dt>3462.37</blnc_on_begin_dt>
+                            <blnc_on_end_dt>3344.36</blnc_on_end_dt>
+                            <trns_list>
+                                <trns_list_ROW>
+                                    <trns_code>6577247360</trns_code>
+                                    <flow>D</flow>
+                                    <amount>118.01</amount>
+                                    <currency>933</currency>
+                                    <timestamp>20181116150149</timestamp>
+                                    <db_accnt>BY39MTBK30120001093300090355</db_accnt>
+                                    <cr_accnt>BY79OLMP30120005654360000933</cr_accnt>
+                                    <bnk_code>OLMPBY2X</bnk_code>
+                                    <db_unp>193015013</db_unp>
+                                    <db_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</db_name>
+                                    <cr_unp>190612002</cr_unp>
+                                    <cr_name>ООО&quot;РЕНТАЛЮКС&quot;</cr_name>
+                                    <pmdt>КОММУНАЛЬНЫЕ УСЛУГИ ЗА ОКТЯБРЬ 2018 СОГЛАСНО СЧЕТА  462  ОТ 12 НОЯБРЯ  2018Г К ДОГОВОРУ АРЕНДЫ 062/2018 ОТ 05.02.2018Г.</pmdt>
+                                </trns_list_ROW>
+                            </trns_list>
+                        </date_list_ROW>
+                        <date_list_ROW>
+                            <dt>20181130</dt>
+                            <blnc_on_begin_dt>3344.36</blnc_on_begin_dt>
+                            <blnc_on_end_dt>3324.46</blnc_on_end_dt>
+                            <trns_list>
+                                <trns_list_ROW>
+                                    <trns_code>6624770340</trns_code>
+                                    <flow>D</flow>
+                                    <amount>19.90</amount>
+                                    <currency>933</currency>
+                                    <timestamp>20181130203758</timestamp>
+                                    <db_accnt>BY39MTBK30120001093300090355</db_accnt>
+                                    <cr_accnt>BY82MTBK67000000000001478945</cr_accnt>
+                                    <bnk_code></bnk_code>
+                                    <db_unp>193015013</db_unp>
+                                    <db_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</db_name>
+                                    <cr_unp>193015013</cr_unp>
+                                    <cr_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</cr_name>
+                                    <pmdt>КОМИССИЯ ЗА РАСЧЕТНО-КАССОВОЕ ОБСЛУЖИВАНИЕ ЮРИДИЧЕСКОГО ЛИЦА (ИНДИВИДУАЛЬНОГО ПРЕДПРИНИМАТЕЛЯ) ПО ТАРИФНОМУ ПЛАНУ &quot;ПЕРВЫЙ СЧЕТ&quot; ЗА НОЯБРЬ 2018 ГОДА Г. ОСНОВАНИЕ: П.2 ПРИЛОЖЕНИЯ 5 К ПЕРЕЧНЮ ПЕРЕЧНЯ ВОЗНАГРАЖДЕНИЙ ЗАО &quot;МТБАНК&quot;. БЕЗ НДС</pmdt>
+                                </trns_list_ROW>
+                            </trns_list>
+                        </date_list_ROW>
+                        <date_list_ROW>
+                            <dt>20181210</dt>
+                            <blnc_on_begin_dt>3324.46</blnc_on_begin_dt>
+                            <blnc_on_end_dt>2913.04</blnc_on_end_dt>
+                            <trns_list>
+                                <trns_list_ROW>
+                                    <trns_code>6656552570</trns_code>
+                                    <flow>D</flow>
+                                    <amount>1.00</amount>
+                                    <currency>933</currency>
+                                    <timestamp>20181210104525</timestamp>
+                                    <db_accnt>BY39MTBK30120001093300090355</db_accnt>
+                                    <cr_accnt>BY30AKBB36029450100090000000</cr_accnt>
+                                    <bnk_code>AKBBBY2X</bnk_code>
+                                    <db_unp>193015013</db_unp>
+                                    <db_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</db_name>
+                                    <cr_unp>104521003</cr_unp>
+                                    <cr_name>ГЛАВНОЕ УПРАВЛЕНИЕ МИНИСТЕРСТВА ФИНАНСОВ РБ ПО Г.МИНСКУ</cr_name>
+                                    <pmdt>ФСЗН ЗА  НОЯБРЬ 2018Г.РЕГИСТРАЦИОННЫЙ НОМЕР 521051879</pmdt>
+                                </trns_list_ROW>
+                                <trns_list_ROW>
+                                    <trns_code>6656552576</trns_code>
+                                    <flow>D</flow>
+                                    <amount>1.00</amount>
+                                    <currency>933</currency>
+                                    <timestamp>20181210104526</timestamp>
+                                    <db_accnt>BY39MTBK30120001093300090355</db_accnt>
+                                    <cr_accnt>BY43AKBB36021010005210000000</cr_accnt>
+                                    <bnk_code>AKBBBY2X</bnk_code>
+                                    <db_unp>193015013</db_unp>
+                                    <db_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</db_name>
+                                    <cr_unp>101530339</cr_unp>
+                                    <cr_name>ГЛАВНОЕ УПРАВЛЕНИЕ МИНИСТЕРСТВА ФИНАНСОВ РБ ПО Г.МИНСКУ</cr_name>
+                                    <pmdt>ПОДОХОДНЫЙ НАЛОГ ЗА НОЯБРЬ 2018Г.ПО СРОКУ УПЛАТЫ 10.12.2018Г.</pmdt>
+                                </trns_list_ROW>
+                                <trns_list_ROW>
+                                    <trns_code>6656552589</trns_code>
+                                    <flow>D</flow>
+                                    <amount>2.00</amount>
+                                    <currency>933</currency>
+                                    <timestamp>20181210104526</timestamp>
+                                    <db_accnt>BY39MTBK30120001093300090355</db_accnt>
+                                    <cr_accnt>BY30AKBB30115240001480000000</cr_accnt>
+                                    <bnk_code>AKBBBY2X</bnk_code>
+                                    <db_unp>193015013</db_unp>
+                                    <db_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</db_name>
+                                    <cr_unp>100122726</cr_unp>
+                                    <cr_name>ФИЛИАЛ БЕЛГОССТРАХА ПО ГОРОДУ МИНСКУ</cr_name>
+                                    <pmdt>ОТЧИСЛЕНИЯ ПО ОБЯЗАТЕЛЬНОМУ СТРАХОВАНИЮ ОТ НЕСЧАСТНЫХ СЛУЧАЕВ НА ПРОИЗВОДСТВЕ.РЕГИСТАЦИОННЫЙ НОМЕР 500207109</pmdt>
+                                </trns_list_ROW>
+                                <trns_list_ROW>
+                                    <trns_code>6656552596</trns_code>
+                                    <flow>D</flow>
+                                    <amount>261.93</amount>
+                                    <currency>933</currency>
+                                    <timestamp>20181210104527</timestamp>
+                                    <db_accnt>BY39MTBK30120001093300090355</db_accnt>
+                                    <cr_accnt>BY79OLMP30120005654360000933</cr_accnt>
+                                    <bnk_code>OLMPBY2X</bnk_code>
+                                    <db_unp>193015013</db_unp>
+                                    <db_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</db_name>
+                                    <cr_unp>190612002</cr_unp>
+                                    <cr_name>ООО&quot;РЕНТАЛЮКС&quot;</cr_name>
+                                    <pmdt>АРЕНДНАЯ ПЛАТА ЗА ДЕКАБРЬ 2018 СОГЛАСНО ДОГОВОРА АРЕНДЫ 062/2018 ОТ 05 ФЕВРАЛЯ 2018Г</pmdt>
+                                </trns_list_ROW>
+                                <trns_list_ROW>
+                                    <trns_code>6656562415</trns_code>
+                                    <flow>D</flow>
+                                    <amount>144.48</amount>
+                                    <currency>933</currency>
+                                    <timestamp>20181210105509</timestamp>
+                                    <db_accnt>BY39MTBK30120001093300090355</db_accnt>
+                                    <cr_accnt>BY30MTBK38120000000000017697</cr_accnt>
+                                    <bnk_code></bnk_code>
+                                    <db_unp>193015013</db_unp>
+                                    <db_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</db_name>
+                                    <cr_unp>193015013</cr_unp>
+                                    <cr_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</cr_name>
+                                    <pmdt>ВЫПЛАТА ЗАРАБОТНОЙ ПЛАТЫ ЗА НОЯБРЬ  2018 ГОДА СОТРУДНИКАМ ООО&quot;КРИПТОТРЕЙД&quot;ПО СПИСКУ  7 ОТ 10 ДЕКАБРЯ  2018Г.СОГЛАСНО ДОГОВОРУ. НАЛОГИ И ОБЯЗАТЕЛЬНЫЕ ПЛАТЕЖИ УДЕРЖАНЫ В БЮДЖЕТ.</pmdt>
+                                </trns_list_ROW>
+                                <trns_list_ROW>
+                                    <trns_code>6656562424</trns_code>
+                                    <flow>D</flow>
+                                    <amount>1.01</amount>
+                                    <currency>933</currency>
+                                    <timestamp>20181210105510</timestamp>
+                                    <db_accnt>BY39MTBK30120001093300090355</db_accnt>
+                                    <cr_accnt>BY08MTBK38190700000000453109</cr_accnt>
+                                    <bnk_code></bnk_code>
+                                    <db_unp>193015013</db_unp>
+                                    <db_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</db_name>
+                                    <cr_unp>193015013</cr_unp>
+                                    <cr_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</cr_name>
+                                    <pmdt>КОМИССИОННОЕ ВОЗНАГРАЖДЕНИЕ БАНКА ЗА ПЕРЕВОД СРЕДСТВ НА ВЫПЛАТУ ЗАРАБОТНОЙ ПЛАТЫ СО СЧЕТА ЮРИДИЧЕСКОГО ЛИЦА НА СЧЕТ КЛИЕНТА СОГЛАСНО ДОГОВОРУ.</pmdt>
+                                </trns_list_ROW>
+                            </trns_list>
+                        </date_list_ROW>
+                        <date_list_ROW>
+                            <dt>20181227</dt>
+                            <blnc_on_begin_dt>2913.04</blnc_on_begin_dt>
+                            <blnc_on_end_dt>2803.97</blnc_on_end_dt>
+                            <trns_list>
+                                <trns_list_ROW>
+                                    <trns_code>6722759291</trns_code>
+                                    <flow>D</flow>
+                                    <amount>109.07</amount>
+                                    <currency>933</currency>
+                                    <timestamp>20181227095528</timestamp>
+                                    <db_accnt>BY39MTBK30120001093300090355</db_accnt>
+                                    <cr_accnt>BY79OLMP30120005654360000933</cr_accnt>
+                                    <bnk_code>OLMPBY2X</bnk_code>
+                                    <db_unp>193015013</db_unp>
+                                    <db_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</db_name>
+                                    <cr_unp>190612002</cr_unp>
+                                    <cr_name>ООО&quot;РЕНТАЛЮКС&quot;</cr_name>
+                                    <pmdt>КОММУНАЛЬНЫЕ УСЛУГИ ЗА НОЯБРЬ 2018 СОГЛАСНО СЧЕТА  511  ОТ 12 ДЕКАБРЯ  2018Г К ДОГОВОРУ АРЕНДЫ 062/2018 ОТ 05.02.2018Г.</pmdt>
+                                </trns_list_ROW>
+                            </trns_list>
+                        </date_list_ROW>
+                        <date_list_ROW>
+                            <dt>20181229</dt>
+                            <blnc_on_begin_dt>2803.97</blnc_on_begin_dt>
+                            <blnc_on_end_dt>2784.07</blnc_on_end_dt>
+                            <trns_list>
+                                <trns_list_ROW>
+                                    <trns_code>6731408160</trns_code>
+                                    <flow>D</flow>
+                                    <amount>19.90</amount>
+                                    <currency>933</currency>
+                                    <timestamp>20181229203436</timestamp>
+                                    <db_accnt>BY39MTBK30120001093300090355</db_accnt>
+                                    <cr_accnt>BY82MTBK67000000000001478945</cr_accnt>
+                                    <bnk_code></bnk_code>
+                                    <db_unp>193015013</db_unp>
+                                    <db_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</db_name>
+                                    <cr_unp>193015013</cr_unp>
+                                    <cr_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</cr_name>
+                                    <pmdt>КОМИССИЯ ЗА РАСЧЕТНО-КАССОВОЕ ОБСЛУЖИВАНИЕ ЮРИДИЧЕСКОГО ЛИЦА (ИНДИВИДУАЛЬНОГО ПРЕДПРИНИМАТЕЛЯ) ПО ТАРИФНОМУ ПЛАНУ &quot;ПЕРВЫЙ СЧЕТ&quot; ЗА ДЕКАБРЬ 2018 ГОДА Г. ОСНОВАНИЕ: П.2 ПРИЛОЖЕНИЯ 5 К ПЕРЕЧНЮ ПЕРЕЧНЯ ВОЗНАГРАЖДЕНИЙ ЗАО &quot;МТБАНК&quot;. БЕЗ НДС</pmdt>
+                                </trns_list_ROW>
+                            </trns_list>
+                        </date_list_ROW>
+                        <date_list_ROW>
+                            <dt>20190110</dt>
+                            <blnc_on_begin_dt>2784.07</blnc_on_begin_dt>
+                            <blnc_on_end_dt>2478.3</blnc_on_end_dt>
+                            <trns_list>
+                                <trns_list_ROW>
+                                    <trns_code>6763964813</trns_code>
+                                    <flow>D</flow>
+                                    <amount>114.60</amount>
+                                    <currency>933</currency>
+                                    <timestamp>20190110095519</timestamp>
+                                    <db_accnt>BY39MTBK30120001093300090355</db_accnt>
+                                    <cr_accnt>BY30AKBB36029450100090000000</cr_accnt>
+                                    <bnk_code>AKBBBY2X</bnk_code>
+                                    <db_unp>193015013</db_unp>
+                                    <db_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</db_name>
+                                    <cr_unp>104521003</cr_unp>
+                                    <cr_name>ГЛАВНОЕ УПРАВЛЕНИЕ МИНИСТЕРСТВА ФИНАНСОВ РБ ПО Г.МИНСКУ</cr_name>
+                                    <pmdt>ФСЗН ЗА  ДЕКАБРЬ 2018Г.РЕГИСТРАЦИОННЫЙ НОМЕР 521051879</pmdt>
+                                </trns_list_ROW>
+                                <trns_list_ROW>
+                                    <trns_code>6763964821</trns_code>
+                                    <flow>D</flow>
+                                    <amount>43.68</amount>
+                                    <currency>933</currency>
+                                    <timestamp>20190110095520</timestamp>
+                                    <db_accnt>BY39MTBK30120001093300090355</db_accnt>
+                                    <cr_accnt>BY43AKBB36021010005210000000</cr_accnt>
+                                    <bnk_code>AKBBBY2X</bnk_code>
+                                    <db_unp>193015013</db_unp>
+                                    <db_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</db_name>
+                                    <cr_unp>101530339</cr_unp>
+                                    <cr_name>ГЛАВНОЕ УПРАВЛЕНИЕ МИНИСТЕРСТВА ФИНАНСОВ РБ ПО Г.МИНСКУ</cr_name>
+                                    <pmdt>ПОДОХОДНЫЙ НАЛОГ ЗА ДЕКАБРЬ 2018Г.ПО СРОКУ УПЛАТЫ 10.01.2019Г.</pmdt>
+                                </trns_list_ROW>
+                                <trns_list_ROW>
+                                    <trns_code>6763964845</trns_code>
+                                    <flow>D</flow>
+                                    <amount>2.00</amount>
+                                    <currency>933</currency>
+                                    <timestamp>20190110095520</timestamp>
+                                    <db_accnt>BY39MTBK30120001093300090355</db_accnt>
+                                    <cr_accnt>BY30AKBB30115240001480000000</cr_accnt>
+                                    <bnk_code>AKBBBY2X</bnk_code>
+                                    <db_unp>193015013</db_unp>
+                                    <db_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</db_name>
+                                    <cr_unp>100122726</cr_unp>
+                                    <cr_name>ФИЛИАЛ БЕЛГОССТРАХА ПО ГОРОДУ МИНСКУ</cr_name>
+                                    <pmdt>ОТЧИСЛЕНИЯ ПО ОБЯЗАТЕЛЬНОМУ СТРАХОВАНИЮ ОТ НЕСЧАСТНЫХ СЛУЧАЕВ НА ПРОИЗВОДСТВЕ.РЕГИСТАЦИОННЫЙ НОМЕР 500207109</pmdt>
+                                </trns_list_ROW>
+                                <trns_list_ROW>
+                                    <trns_code>6763968732</trns_code>
+                                    <flow>D</flow>
+                                    <amount>1.01</amount>
+                                    <currency>933</currency>
+                                    <timestamp>20190110095938</timestamp>
+                                    <db_accnt>BY39MTBK30120001093300090355</db_accnt>
+                                    <cr_accnt>BY08MTBK38190700000000453109</cr_accnt>
+                                    <bnk_code></bnk_code>
+                                    <db_unp>193015013</db_unp>
+                                    <db_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</db_name>
+                                    <cr_unp>193015013</cr_unp>
+                                    <cr_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</cr_name>
+                                    <pmdt>КОМИССИОННОЕ ВОЗНАГРАЖДЕНИЕ БАНКА ЗА ПЕРЕВОД СРЕДСТВ НА ВЫПЛАТУ ЗАРАБОТНОЙ ПЛАТЫ СО СЧЕТА ЮРИДИЧЕСКОГО ЛИЦА НА СЧЕТ КЛИЕНТА СОГЛАСНО ДОГОВОРУ.</pmdt>
+                                </trns_list_ROW>
+                                <trns_list_ROW>
+                                    <trns_code>6763968737</trns_code>
+                                    <flow>D</flow>
+                                    <amount>144.48</amount>
+                                    <currency>933</currency>
+                                    <timestamp>20190110095938</timestamp>
+                                    <db_accnt>BY39MTBK30120001093300090355</db_accnt>
+                                    <cr_accnt>BY30MTBK38120000000000017697</cr_accnt>
+                                    <bnk_code></bnk_code>
+                                    <db_unp>193015013</db_unp>
+                                    <db_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</db_name>
+                                    <cr_unp>193015013</cr_unp>
+                                    <cr_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</cr_name>
+                                    <pmdt>ВЫПЛАТА ЗАРАБОТНОЙ ПЛАТЫ ЗА ДЕКАБРЬ  2018 ГОДА СОТРУДНИКАМ ООО&quot;КРИПТОТРЕЙД&quot;ПО СПИСКУ  1 ОТ 10 ЯНВАРЯ  2019Г.СОГЛАСНО ДОГОВОРУ. НАЛОГИ И ОБЯЗАТЕЛЬНЫЕ ПЛАТЕЖИ УДЕРЖАНЫ В БЮДЖЕТ.</pmdt>
+                                </trns_list_ROW>
+                            </trns_list>
+                        </date_list_ROW>
+                        <date_list_ROW>
+                            <dt>20190115</dt>
+                            <blnc_on_begin_dt>2478.3</blnc_on_begin_dt>
+                            <blnc_on_end_dt>2097.76</blnc_on_end_dt>
+                            <trns_list>
+                                <trns_list_ROW>
+                                    <trns_code>6782441080</trns_code>
+                                    <flow>D</flow>
+                                    <amount>266.85</amount>
+                                    <currency>933</currency>
+                                    <timestamp>20190115150529</timestamp>
+                                    <db_accnt>BY39MTBK30120001093300090355</db_accnt>
+                                    <cr_accnt>BY79OLMP30120005654360000933</cr_accnt>
+                                    <bnk_code>OLMPBY2X</bnk_code>
+                                    <db_unp>193015013</db_unp>
+                                    <db_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</db_name>
+                                    <cr_unp>190612002</cr_unp>
+                                    <cr_name>ООО&quot;РЕНТАЛЮКС&quot;</cr_name>
+                                    <pmdt>АРЕНДНАЯ ПЛАТА ЗА ЯНВАРЬ 2019 СОГЛАСНО ДОГОВОРА АРЕНДЫ 062/2018 ОТ 05 ФЕВРАЛЯ 2018Г</pmdt>
+                                </trns_list_ROW>
+                                <trns_list_ROW>
+                                    <trns_code>6782441097</trns_code>
+                                    <flow>D</flow>
+                                    <amount>113.69</amount>
+                                    <currency>933</currency>
+                                    <timestamp>20190115150529</timestamp>
+                                    <db_accnt>BY39MTBK30120001093300090355</db_accnt>
+                                    <cr_accnt>BY79OLMP30120005654360000933</cr_accnt>
+                                    <bnk_code>OLMPBY2X</bnk_code>
+                                    <db_unp>193015013</db_unp>
+                                    <db_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</db_name>
+                                    <cr_unp>190612002</cr_unp>
+                                    <cr_name>ООО&quot;РЕНТАЛЮКС&quot;</cr_name>
+                                    <pmdt>КОММУНАЛЬНЫЕ УСЛУГИ ЗА ДЕКАБРЬ 2018 СОГЛАСНО СЧЕТА  30  ОТ 11 ЯНВАРЯ  2019Г К ДОГОВОРУ АРЕНДЫ 062/2018 ОТ 05.02.2018Г.</pmdt>
+                                </trns_list_ROW>
+                            </trns_list>
+                        </date_list_ROW>
+                        <date_list_ROW>
+                            <dt>20190131</dt>
+                            <blnc_on_begin_dt>2097.76</blnc_on_begin_dt>
+                            <blnc_on_end_dt>2077.86</blnc_on_end_dt>
+                            <trns_list>
+                                <trns_list_ROW>
+                                    <trns_code>6841984001</trns_code>
+                                    <flow>D</flow>
+                                    <amount>19.90</amount>
+                                    <currency>933</currency>
+                                    <timestamp>20190131201554</timestamp>
+                                    <db_accnt>BY39MTBK30120001093300090355</db_accnt>
+                                    <cr_accnt>BY82MTBK67000000000001478945</cr_accnt>
+                                    <bnk_code></bnk_code>
+                                    <db_unp>193015013</db_unp>
+                                    <db_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</db_name>
+                                    <cr_unp>193015013</cr_unp>
+                                    <cr_name>КРИПТОТРЕЙД ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ</cr_name>
+                                    <pmdt>КОМИССИЯ ЗА РАСЧЕТНО-КАССОВОЕ ОБСЛУЖИВАНИЕ ЮРИДИЧЕСКОГО ЛИЦА (ИНДИВИДУАЛЬНОГО ПРЕДПРИНИМАТЕЛЯ) ПО ТАРИФНОМУ ПЛАНУ &quot;ПЕРВЫЙ СЧЕТ&quot; ЗА ЯНВАРЬ 2019 ГОДА Г. ОСНОВАНИЕ: П.2 ПРИЛОЖЕНИЯ 5 К ПЕРЕЧНЮ ПЕРЕЧНЯ ВОЗНАГРАЖДЕНИЙ ЗАО &quot;МТБАНК&quot;. БЕЗ НДС</pmdt>
+                                </trns_list_ROW>
+                            </trns_list>
+                        </date_list_ROW>
+                    </date_list>
+                </ROW>
+
+        </Response>
+    </Msg>
+</FISRs>
